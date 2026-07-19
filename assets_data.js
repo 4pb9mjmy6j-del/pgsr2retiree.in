@@ -13,7 +13,7 @@ const COMPENDIUM_DATA = {
       "section": "MAT",
       "sectionLabel": "MEDICAL ATTENDANCE & TREATMENT RULES",
       "color": "#1a4a7a",
-      "pdf": "pdfs/circular_01.pdf",
+      "pdf": "circular_01.pdf",
       "pageInFullCompendium": 15
     },
     {
@@ -28,7 +28,7 @@ const COMPENDIUM_DATA = {
       "section": "MAT",
       "sectionLabel": "MEDICAL ATTENDANCE & TREATMENT RULES",
       "color": "#1a4a7a",
-      "pdf": "pdfs/circular_02.pdf",
+      "pdf": "circular_02.pdf",
       "pageInFullCompendium": 66
     },
     {
@@ -43,7 +43,7 @@ const COMPENDIUM_DATA = {
       "section": "MAT",
       "sectionLabel": "MEDICAL ATTENDANCE & TREATMENT RULES",
       "color": "#1a4a7a",
-      "pdf": "pdfs/circular_03.pdf",
+      "pdf": "circular_03.pdf",
       "pageInFullCompendium": 89
     },
     {
@@ -58,7 +58,7 @@ const COMPENDIUM_DATA = {
       "section": "MAT",
       "sectionLabel": "MEDICAL ATTENDANCE & TREATMENT RULES",
       "color": "#1a4a7a",
-      "pdf": "pdfs/circular_04.pdf",
+      "pdf": "circular_04.pdf",
       "pageInFullCompendium": 92
     },
     {
@@ -73,7 +73,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_05.pdf",
+      "pdf": "circular_05.pdf",
       "pageInFullCompendium": 97
     },
     {
@@ -88,7 +88,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_06.pdf",
+      "pdf": "circular_06.pdf",
       "pageInFullCompendium": 111
     },
     {
@@ -103,7 +103,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_07.pdf",
+      "pdf": "circular_07.pdf",
       "pageInFullCompendium": 127
     },
     {
@@ -118,7 +118,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_08.pdf",
+      "pdf": "circular_08.pdf",
       "pageInFullCompendium": 135
     },
     {
@@ -133,7 +133,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_09.pdf",
+      "pdf": "circular_09.pdf",
       "pageInFullCompendium": 271
     },
     {
@@ -148,7 +148,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_10.pdf",
+      "pdf": "circular_10.pdf",
       "pageInFullCompendium": 272
     },
     {
@@ -163,7 +163,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_11.pdf",
+      "pdf": "circular_11.pdf",
       "pageInFullCompendium": 414
     },
     {
@@ -178,7 +178,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_12.pdf",
+      "pdf": "circular_12.pdf",
       "pageInFullCompendium": 420
     },
     {
@@ -193,7 +193,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_13.pdf",
+      "pdf": "circular_13.pdf",
       "pageInFullCompendium": 522
     },
     {
@@ -208,7 +208,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_14.pdf",
+      "pdf": "circular_14.pdf",
       "pageInFullCompendium": 523
     },
     {
@@ -223,7 +223,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_15.pdf",
+      "pdf": "circular_15.pdf",
       "pageInFullCompendium": 534
     },
     {
@@ -238,7 +238,7 @@ const COMPENDIUM_DATA = {
       "section": "RATES",
       "sectionLabel": "APPROVED RATES / TARIFFS",
       "color": "#2f7d3c",
-      "pdf": "pdfs/circular_16.pdf",
+      "pdf": "circular_16.pdf",
       "pageInFullCompendium": 535
     },
     {
@@ -253,7 +253,7 @@ const COMPENDIUM_DATA = {
       "section": "HEALTH",
       "sectionLabel": "PREVENTIVE HEALTH CHECK-UP",
       "color": "#128089",
-      "pdf": "pdfs/circular_17.pdf",
+      "pdf": "circular_17.pdf",
       "pageInFullCompendium": 628
     },
     {
@@ -268,7 +268,7 @@ const COMPENDIUM_DATA = {
       "section": "HEALTH",
       "sectionLabel": "PREVENTIVE HEALTH CHECK-UP",
       "color": "#128089",
-      "pdf": "pdfs/circular_18.pdf",
+      "pdf": "circular_18.pdf",
       "pageInFullCompendium": 632
     },
     {
@@ -283,7 +283,7 @@ const COMPENDIUM_DATA = {
       "section": "HEALTH",
       "sectionLabel": "PREVENTIVE HEALTH CHECK-UP",
       "color": "#128089",
-      "pdf": "pdfs/circular_19.pdf",
+      "pdf": "circular_19.pdf",
       "pageInFullCompendium": 634
     },
     {
@@ -298,7 +298,7 @@ const COMPENDIUM_DATA = {
       "section": "HEALTH",
       "sectionLabel": "PREVENTIVE HEALTH CHECK-UP",
       "color": "#128089",
-      "pdf": "pdfs/circular_20.pdf",
+      "pdf": "circular_20.pdf",
       "pageInFullCompendium": 635
     },
     {
@@ -313,7 +313,7 @@ const COMPENDIUM_DATA = {
       "section": "DAYCARE",
       "sectionLabel": "DAY-CARE PROCEDURES",
       "color": "#c07f0e",
-      "pdf": "pdfs/circular_21.pdf",
+      "pdf": "circular_21.pdf",
       "pageInFullCompendium": 641
     },
     {
@@ -328,7 +328,7 @@ const COMPENDIUM_DATA = {
       "section": "DAYCARE",
       "sectionLabel": "DAY-CARE PROCEDURES",
       "color": "#c07f0e",
-      "pdf": "pdfs/circular_22.pdf",
+      "pdf": "circular_22.pdf",
       "pageInFullCompendium": 642
     },
     {
@@ -343,7 +343,7 @@ const COMPENDIUM_DATA = {
       "section": "DEP",
       "sectionLabel": "DEPENDENT COVERAGE",
       "color": "#a13a2f",
-      "pdf": "pdfs/circular_23.pdf",
+      "pdf": "circular_23.pdf",
       "pageInFullCompendium": 644
     },
     {
@@ -358,7 +358,7 @@ const COMPENDIUM_DATA = {
       "section": "DEP",
       "sectionLabel": "DEPENDENT COVERAGE",
       "color": "#a13a2f",
-      "pdf": "pdfs/circular_24.pdf",
+      "pdf": "circular_24.pdf",
       "pageInFullCompendium": 649
     },
     {
@@ -373,7 +373,7 @@ const COMPENDIUM_DATA = {
       "section": "DEP",
       "sectionLabel": "DEPENDENT COVERAGE",
       "color": "#a13a2f",
-      "pdf": "pdfs/circular_25.pdf",
+      "pdf": "circular_25.pdf",
       "pageInFullCompendium": 650
     },
     {
@@ -388,7 +388,7 @@ const COMPENDIUM_DATA = {
       "section": "SYS",
       "sectionLabel": "PORTAL / SYSTEM CIRCULARS",
       "color": "#5c3d99",
-      "pdf": "pdfs/circular_26.pdf",
+      "pdf": "circular_26.pdf",
       "pageInFullCompendium": 652
     },
     {
@@ -403,7 +403,7 @@ const COMPENDIUM_DATA = {
       "section": "SYS",
       "sectionLabel": "PORTAL / SYSTEM CIRCULARS",
       "color": "#5c3d99",
-      "pdf": "pdfs/circular_27.pdf",
+      "pdf": "circular_27.pdf",
       "pageInFullCompendium": 662
     },
     {
@@ -418,7 +418,7 @@ const COMPENDIUM_DATA = {
       "section": "SYS",
       "sectionLabel": "PORTAL / SYSTEM CIRCULARS",
       "color": "#5c3d99",
-      "pdf": "pdfs/circular_28.pdf",
+      "pdf": "circular_28.pdf",
       "pageInFullCompendium": 664
     }
   ],
