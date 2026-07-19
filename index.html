@@ -26,7 +26,7 @@
   <button class="tab-btn" data-tab="aabhaar">Aabhaar Scheme</button>
   <button class="tab-btn" data-tab="crossref">Cross-Reference Notes</button>
   <button class="tab-btn" data-tab="downloads">Downloads</button>
-  <button class="tab-btn" data-tab="about">About / Disclaimer</button>
+  <button class="tab-btn" data-tab="about">Preface / About / Disclaimer</button>
 </nav>
 
 <main class="content">
@@ -50,15 +50,17 @@
   <section id="tab-hospitals" class="tab-panel">
     <div class="panel-intro">
       <p>Empanelled hospitals and Dr. Lal PathLabs centres in Southern Region&nbsp;II. Search by
-      hospital/lab name or city. <span class="star-red">*</span> the Portal Sl.No. may change once
-      any new empanelment hospital is added.</p>
+      name, or pick a city from the dropdown to see only that city's list.
+      <span class="star-red">*</span> the Portal Sl.No. may change once any new empanelment hospital
+      is added.</p>
     </div>
     <div class="controls">
-      <input type="search" id="hospSearch" placeholder="Search hospitals or labs by name or city…" autocomplete="off">
+      <input type="search" id="hospSearch" placeholder="Search hospitals or labs by name…" autocomplete="off">
       <div class="chips">
         <button class="chip active" data-hgroup="hospitals">Hospitals (80)</button>
         <button class="chip" data-hgroup="labs">Dr. Lal PathLabs (23)</button>
       </div>
+      <select id="hospCityFilter" class="city-select"></select>
     </div>
     <div id="hospResults" class="results"></div>
     <p class="empty-msg" id="hospEmpty" style="display:none;">No matches found.</p>
@@ -140,7 +142,53 @@
   <!-- ABOUT TAB -->
   <section id="tab-about" class="tab-panel">
     <div class="card-page">
-      <h2>About This Portal</h2>
+      <h2>Preface</h2>
+      <p>Over the years, POWERGRID Corporate HR Department has issued a number of circulars, office
+      memoranda and scheme documents governing medical attendance, treatment and reimbursement
+      facilities available to serving as well as retired employees under the Post-Retirement Medical
+      Benefit (PRMB) Scheme and also the AABHAAR Scheme to felicitate and reward superannuated
+      employees in recognition of achieving age milestones. These circulars, being issued at different
+      points in time and on different aspects of the rules, are often scattered and difficult to
+      locate when actually needed.</p>
+      <p>This Compendium has been prepared with the specific objective of consolidating all such
+      circulars &mdash; classified and grouped based on nature/type of the circulars in date wise
+      descending order sequence with a ready-reference Index &mdash; so that a Retired Employee,
+      spouse or dependent can quickly locate the applicable provision, rate, ceiling or procedure
+      without having to search through multiple individual documents.</p>
+      <p><em>This compilation is based on the circulars, office memoranda and scheme documents hosted
+      on the Retired Employees Portal (<strong>https://tejas.powergrid.in/ex-employee/</strong>) as on
+      30-06-2026.</em></p>
+      <h3>Usefulness of this Compendium to Retired Employees</h3>
+      <ul>
+        <li><strong>Single-window reference:</strong> All circulars relating to Preventive Health
+        Check-up, Hearing Aid reimbursement, Artificial Appliances/Prosthetics rates, Cataract (IOL)
+        lens ceiling, Ayurveda treatment, Dental rates, Day-care procedures, and PRMB dependent
+        coverage are available at one place.</li>
+        <li><strong>Quick navigation:</strong> The Index gives the circular number, date, subject and
+        exact page range in the full Compendium file, enabling a retired employee to go directly to
+        the relevant circular instead of searching multiple files.</li>
+        <li><strong>Up-to-date position:</strong> Since circulars are arranged in descending date
+        order, the employee can immediately see the latest applicable provision on any subject, and
+        also trace how a particular rule has evolved over time.</li>
+        <li><strong>Assistance in claims:</strong> Approved rates (dental, prosthetics, hearing aid,
+        cataract lens, Ayurveda therapies, Holy Family Hospital Delhi Rates, Batra Hospital Delhi
+        Rates, Dr Lalpath Labs rates) and eligibility conditions are readily available for use while
+        preparing and submitting reimbursement claims under the PRMB Scheme.</li>
+        <li><strong>Awareness of procedural requirements:</strong> Circulars relating to PRMB Life
+        Certificate submission, updation of dependents on the Power-Setu portal, and the AABHAAR
+        felicitation scheme help retired employees stay compliant with annual submission requirements
+        and avail all eligible benefits without interruption.</li>
+      </ul>
+      <p>It is hoped that this Compendium will serve as a handy and reliable reference document for
+      the Retired Employees' community of POWERGRID, and will be updated periodically as and when new
+      circulars affecting medical reimbursement are issued.</p>
+      <h3>Acknowledgements</h3>
+      <p>The compiler gratefully acknowledges the continued support, guidance and valuable suggestions
+      of Shri N Shankar, ex-ED(HR), CC and Shri NSJ Ponniah, ex-Senior GM, Sriperumbudur, in bringing
+      out this Compendium.</p>
+      <a class="btn-view" href="preface.pdf" target="_blank" rel="noopener">View / Download Preface PDF</a>
+
+      <h2 style="margin-top:34px;">About This Portal</h2>
       <p>This portal consolidates the circulars, office memoranda, and scheme documents governing
       medical attendance, treatment, and reimbursement facilities available to retired employees
       under the Post-Retirement Medical Benefit (PRMB) Scheme, and the AABHAAR Scheme, all in one

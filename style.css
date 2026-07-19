@@ -118,6 +118,19 @@ body {
   flex-wrap: wrap;
   gap: 6px;
 }
+
+.city-select {
+  padding: 8px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--navy);
+  border: 1.5px solid var(--border);
+  border-radius: 20px;
+  background: #fff;
+  cursor: pointer;
+  max-width: 260px;
+}
+.city-select:focus { border-color: var(--gold); outline: none; }
 .chip {
   border: 1.5px solid var(--border);
   background: #fff;

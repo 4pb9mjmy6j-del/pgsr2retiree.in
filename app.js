@@ -165,7 +165,27 @@
 
   /* ---------- hospitals / labs tab ---------- */
 
-  var hospState = { query: "", group: "hospitals" };
+  var hospState = { query: "", group: "hospitals", city: "ALL" };
+
+  function buildHospCityFilter() {
+    var select = document.getElementById("hospCityFilter");
+    if (!select) return;
+    var isHosp = hospState.group === "hospitals";
+    var list = isHosp ? DATA.hospitals : DATA.labs;
+    var cities = [];
+    list.forEach(function (r) {
+      if (cities.indexOf(r.city) === -1) cities.push(r.city);
+    });
+    cities.sort();
+    var html = '<option value="ALL">All Cities</option>';
+    cities.forEach(function (c) {
+      var count = list.filter(function (r) { return r.city === c; }).length;
+      html += '<option value="' + escapeHtml(c) + '">' + escapeHtml(c) + " (" + count + ")</option>";
+    });
+    select.innerHTML = html;
+    hospState.city = "ALL";
+    select.value = "ALL";
+  }
 
   function renderHospitals() {
     var resultsEl = document.getElementById("hospResults");
@@ -176,8 +196,14 @@
     var isHosp = hospState.group === "hospitals";
     var list = isHosp ? DATA.hospitals : DATA.labs;
 
+    // City selection is an exact match against the dedicated dropdown, so it
+    // can never accidentally pull in another city whose street address just
+    // happens to mention this city's name (e.g. "Salem - Bangalore Highway").
+    // The free-text search box only ever matches name/address, never city,
+    // for the same reason.
     var filtered = list.filter(function (r) {
-      var parts = isHosp ? [r.name, r.city, r.addr] : [r.city, r.addr];
+      if (hospState.city !== "ALL" && r.city !== hospState.city) return false;
+      var parts = isHosp ? [r.name, r.addr] : [r.addr];
       return matchesQuery(parts, q);
     });
 
@@ -225,6 +251,7 @@
   }
 
   function initHospitals() {
+    buildHospCityFilter();
     renderHospitals();
     var search = document.getElementById("hospSearch");
     if (search) {
@@ -233,11 +260,19 @@
         renderHospitals();
       });
     }
+    var citySelect = document.getElementById("hospCityFilter");
+    if (citySelect) {
+      citySelect.addEventListener("change", function () {
+        hospState.city = citySelect.value;
+        renderHospitals();
+      });
+    }
     document.querySelectorAll('.chip[data-hgroup]').forEach(function (chip) {
       chip.addEventListener("click", function () {
         hospState.group = chip.getAttribute("data-hgroup");
         document.querySelectorAll('.chip[data-hgroup]').forEach(function (c) { c.classList.remove("active"); });
         chip.classList.add("active");
+        buildHospCityFilter();
         renderHospitals();
       });
     });
