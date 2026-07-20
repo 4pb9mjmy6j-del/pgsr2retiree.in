@@ -1246,6 +1246,13 @@ const COMPENDIUM_DATA = {
       "description": "Applicable income tax slab rates for the Financial Year 2025-26.",
       "file": "Income_Tax_Slabs_FY_202526.pdf",
       "category": "Income Tax"
+    },
+    {
+        "id": "other-03",
+      "title": "EPS-2026-Gazette",
+      "description": "EPS-2026-Gazette Notification dt 29-06-2026.",
+      "file": "EPS-2026-GAZETTE-29-06-26.pdf",
+      "category": "EPS"
     }
   ]
 };
