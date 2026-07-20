@@ -1232,7 +1232,7 @@ const COMPENDIUM_DATA = {
   ],
   "aabhaarStart": 666,
   "faqs": [],
-  "otherInfo": [Other Useful Information
+  "otherInfo": [
   {
     "id": "other-01",
     "title": "Incometax-89(1)-Relief",
@@ -1240,4 +1240,4 @@ const COMPENDIUM_DATA = {
     "file": "89(1)RELIEF-FY-2025-26-FINAL.xlsx",
     "category": "Income Tax"
   }
-],
+]
