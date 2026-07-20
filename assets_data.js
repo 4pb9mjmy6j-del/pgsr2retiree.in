@@ -1252,7 +1252,7 @@ const COMPENDIUM_DATA = {
       "title": "EPS-2026-Gazette",
       "description": "EPS-2026-Gazette Notification dt 29-06-2026.",
       "file": "EPS-2026-GAZETTE-29-06-26.pdf",
-      "category": "EPS"
+      "category": "Employees Pension Scheme"
     }
   ]
 };
