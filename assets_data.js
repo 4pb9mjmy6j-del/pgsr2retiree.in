@@ -1232,7 +1232,7 @@ const COMPENDIUM_DATA = {
   ],
   "aabhaarStart": 666,
   "faqs": [],
-  "otherInfo": [Other USeful Information
+  "otherInfo": [Other Useful Information
   {
     "id": "other-01",
     "title": "Incometax-89(1)-Relief",
