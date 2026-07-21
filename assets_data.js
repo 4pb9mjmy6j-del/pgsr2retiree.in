@@ -1203,7 +1203,7 @@ const COMPENDIUM_DATA = {
       "name": "Fortis-Escorts",
       "city": "Faridabad",
       "addr": "Neelam Bata Road, Faridabad",
-      "group": "Faridabad (8 Hospitals)",
+      "group": "Faridabad (1 Hospital)",
       "region": "CC"
     },
     {
@@ -1212,7 +1212,7 @@ const COMPENDIUM_DATA = {
       "name": "Max Hospital",
       "city": "Ghaziabad",
       "addr": "Vaishali, Ghaziabad",
-      "group": "Ghaziabad (3 Hospitals)",
+      "group": "Ghaziabad (2 Hospitals)",
       "region": "CC"
     },
     {
@@ -1221,7 +1221,7 @@ const COMPENDIUM_DATA = {
       "name": "Shroff Eye Centre",
       "city": "Ghaziabad",
       "addr": "Kaushambi, Ghaziabad",
-      "group": "Ghaziabad (3 Hospitals)",
+      "group": "Ghaziabad (2 Hospitals)",
       "region": "CC"
     },
     {
@@ -1347,7 +1347,7 @@ const COMPENDIUM_DATA = {
       "name": "Aakash Hospital",
       "city": "New Delhi",
       "addr": "Hospital Plot, Road No 201, Sec 3, Dwarka, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1356,7 +1356,7 @@ const COMPENDIUM_DATA = {
       "name": "Apollo Hospital",
       "city": "New Delhi",
       "addr": "Sarita Vihar, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1365,7 +1365,7 @@ const COMPENDIUM_DATA = {
       "name": "Ayushman Hospital",
       "city": "New Delhi",
       "addr": "Dwarka Sec 10, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1374,7 +1374,7 @@ const COMPENDIUM_DATA = {
       "name": "B L Kapur Hospital",
       "city": "New Delhi",
       "addr": "Pusa Rd, Radha Soami Satsang, Rajendra Place,",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1383,7 +1383,7 @@ const COMPENDIUM_DATA = {
       "name": "Batra Hospital",
       "city": "New Delhi",
       "addr": "Tughlakabad Institutional Area, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1392,7 +1392,7 @@ const COMPENDIUM_DATA = {
       "name": "Dharamshila Cancer Hospital",
       "city": "New Delhi",
       "addr": "Vasundhara Enclave, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1401,7 +1401,7 @@ const COMPENDIUM_DATA = {
       "name": "Fortis Escorts Heart Hospital",
       "city": "New Delhi",
       "addr": "Okhla, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1410,7 +1410,7 @@ const COMPENDIUM_DATA = {
       "name": "Fortis Hospital",
       "city": "New Delhi",
       "addr": "Shalimar Bagh, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1419,7 +1419,7 @@ const COMPENDIUM_DATA = {
       "name": "Manipal Hospital",
       "city": "New Delhi",
       "addr": "Main Road, Sector-6, Dwarka, Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1428,7 +1428,7 @@ const COMPENDIUM_DATA = {
       "name": "Holy Family Hospital",
       "city": "New Delhi",
       "addr": "Okhla Road, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1437,7 +1437,7 @@ const COMPENDIUM_DATA = {
       "name": "Max Balaji Hospital",
       "city": "New Delhi",
       "addr": "Patparganj, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1446,7 +1446,7 @@ const COMPENDIUM_DATA = {
       "name": "Max Super Specialty Hospital Saket- East",
       "city": "New Delhi",
       "addr": "1, 2, Press Enclave Marg, Saket Institutional Area, Saket,\u00a0delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1455,7 +1455,7 @@ const COMPENDIUM_DATA = {
       "name": "Max Super Specialty Hospital Saket- West",
       "city": "New Delhi",
       "addr": "1, 2, Press Enclave Marg, Saket Institutional Area, Saket,\u00a0delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1464,7 +1464,7 @@ const COMPENDIUM_DATA = {
       "name": "Max Smart Super Specialty",
       "city": "New Delhi",
       "addr": "Press Enclave Marg, Saket District Centre, Saket, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1473,7 +1473,7 @@ const COMPENDIUM_DATA = {
       "name": "Mool Chand Hospital",
       "city": "New Delhi",
       "addr": "Lajpat Nagar- Iii, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1482,7 +1482,7 @@ const COMPENDIUM_DATA = {
       "name": "Pushpawati Singhania Institute",
       "city": "New Delhi",
       "addr": "Press Enclave Marg, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1491,7 +1491,7 @@ const COMPENDIUM_DATA = {
       "name": "Rajan Dhall-Fortis Hospital",
       "city": "New Delhi",
       "addr": "Vasant Kunj, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1500,7 +1500,7 @@ const COMPENDIUM_DATA = {
       "name": "Shroff Eye Centre",
       "city": "New Delhi",
       "addr": "Kailash Colony, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1509,7 +1509,7 @@ const COMPENDIUM_DATA = {
       "name": "Sir Ganga Ram Hospital",
       "city": "New Delhi",
       "addr": "Rajinder Nagar, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1518,7 +1518,7 @@ const COMPENDIUM_DATA = {
       "name": "Sita Ram Bhartia Hospital",
       "city": "New Delhi",
       "addr": "Qutab Institutional Area, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1527,7 +1527,7 @@ const COMPENDIUM_DATA = {
       "name": "Venkateshwar Hospital",
       "city": "New Delhi",
       "addr": "Sector 18, Sector 18a Dwarka, Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1536,7 +1536,7 @@ const COMPENDIUM_DATA = {
       "name": "M/S Centre for Sight",
       "city": "New Delhi",
       "addr": "Plot No 9, Sector 9, Dwarka, New Delhi-110077",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1545,7 +1545,7 @@ const COMPENDIUM_DATA = {
       "name": "Kailash Deepak Hospital",
       "city": "New Delhi",
       "addr": "Vikas Marg Extn, Industrial Area Ii, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1554,7 +1554,7 @@ const COMPENDIUM_DATA = {
       "name": "Max, Dwarka",
       "city": "New Delhi",
       "addr": "Max Super-Specialty Hospital, Plot No. 1, Sector 10 Dwarka, Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1563,7 +1563,7 @@ const COMPENDIUM_DATA = {
       "name": "Rajiv Gandhi Cancer Institute and Research Centre",
       "city": "New Delhi",
       "addr": "Mahendra Kumar Jain Marg, Niti Bagh, New Delhi-110049",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1572,7 +1572,7 @@ const COMPENDIUM_DATA = {
       "name": "Rajiv Gandhi Cancer Institute and Research Centre",
       "city": "New Delhi",
       "addr": "Rohini, New Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (26 Hospitals)",
       "region": "CC"
     },
     {
@@ -1581,7 +1581,7 @@ const COMPENDIUM_DATA = {
       "name": "Apollo Hospital",
       "city": "Noida",
       "addr": "E-2, Sector - 26, Noida",
-      "group": "Noida (7 Hospitals)",
+      "group": "Noida (4 Hospitals)",
       "region": "CC"
     },
     {
@@ -1590,7 +1590,7 @@ const COMPENDIUM_DATA = {
       "name": "Fortis Hospital",
       "city": "Noida",
       "addr": "Sector 62, Gautam Buddh, Noida",
-      "group": "Noida (7 Hospitals)",
+      "group": "Noida (4 Hospitals)",
       "region": "CC"
     },
     {
@@ -1599,7 +1599,7 @@ const COMPENDIUM_DATA = {
       "name": "Kailash Hospital",
       "city": "Noida",
       "addr": "H-33, Sector-27, Noida",
-      "group": "Noida (7 Hospitals)",
+      "group": "Noida (4 Hospitals)",
       "region": "CC"
     },
     {
@@ -1608,7 +1608,7 @@ const COMPENDIUM_DATA = {
       "name": "Kailash Hospital & Neuro Institute",
       "city": "Noida",
       "addr": "Sector 71, Noida",
-      "group": "Noida (7 Hospitals)",
+      "group": "Noida (4 Hospitals)",
       "region": "CC"
     },
     {
@@ -1644,7 +1644,7 @@ const COMPENDIUM_DATA = {
       "name": "Asian Institute of Medical Sciences",
       "city": "Faridabad",
       "addr": "Sector 21a, Faridabad",
-      "group": "Faridabad (8 Hospitals)",
+      "group": "Faridabad (7 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -1653,7 +1653,7 @@ const COMPENDIUM_DATA = {
       "name": "Metro Heart Institute",
       "city": "Faridabad",
       "addr": "Sector 16 a, Faridabad",
-      "group": "Faridabad (8 Hospitals)",
+      "group": "Faridabad (7 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -1662,7 +1662,7 @@ const COMPENDIUM_DATA = {
       "name": "Sarvodaya Hospital",
       "city": "Faridabad",
       "addr": "Sector 8, Faridabad",
-      "group": "Faridabad (8 Hospitals)",
+      "group": "Faridabad (7 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -1671,7 +1671,7 @@ const COMPENDIUM_DATA = {
       "name": "Qrg Medicare Limited (Qrg Health City Hospital)",
       "city": "Faridabad",
       "addr": "Sector-16, Faridabad",
-      "group": "Faridabad (8 Hospitals)",
+      "group": "Faridabad (7 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -1680,7 +1680,7 @@ const COMPENDIUM_DATA = {
       "name": "Accord Superspeciality Hospital",
       "city": "Faridabad",
       "addr": "Sector 86, Faridabad",
-      "group": "Faridabad (8 Hospitals)",
+      "group": "Faridabad (7 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -1689,7 +1689,7 @@ const COMPENDIUM_DATA = {
       "name": "Amrita Hospital",
       "city": "Faridabad",
       "addr": "Sector 88, Faridabad",
-      "group": "Faridabad (8 Hospitals)",
+      "group": "Faridabad (7 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -1698,7 +1698,7 @@ const COMPENDIUM_DATA = {
       "name": "Yatharth Super Specialty Hospital",
       "city": "Faridabad",
       "addr": "Rps City, Sector-88, Faridabad",
-      "group": "Faridabad (8 Hospitals)",
+      "group": "Faridabad (7 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -1707,7 +1707,7 @@ const COMPENDIUM_DATA = {
       "name": "Yashoda Super Specialty Hospitals",
       "city": "Ghaziabad",
       "addr": "Kaushambi, Ghaziabad",
-      "group": "Ghaziabad (3 Hospitals)",
+      "group": "Ghaziabad (1 Hospital)",
       "region": "NR-I"
     },
     {
@@ -1761,7 +1761,7 @@ const COMPENDIUM_DATA = {
       "name": "Venu Eye Institute",
       "city": "New Delhi",
       "addr": "Sheikh Sarai, Delhi",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (2 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -1770,7 +1770,7 @@ const COMPENDIUM_DATA = {
       "name": "Indian Spinal Injuries Centre",
       "city": "New Delhi",
       "addr": "Sector-C, Vasant Kunj, New Delhi-110070",
-      "group": "New Delhi (28 Hospitals)",
+      "group": "New Delhi (2 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -1779,7 +1779,7 @@ const COMPENDIUM_DATA = {
       "name": "Icare Eye Hospitals & Pg Institute",
       "city": "Noida",
       "addr": "Sector 26, Noida",
-      "group": "Noida (7 Hospitals)",
+      "group": "Noida (3 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -1788,7 +1788,7 @@ const COMPENDIUM_DATA = {
       "name": "Yatharth Wellness, Super Specialty Hospital & Heart Centre",
       "city": "Noida",
       "addr": "Nh-01, Sector-110, Noida",
-      "group": "Noida (7 Hospitals)",
+      "group": "Noida (3 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -1797,7 +1797,7 @@ const COMPENDIUM_DATA = {
       "name": "Medanta Hospital, Noida",
       "city": "Noida",
       "addr": "Sector-50, Noida",
-      "group": "Noida (7 Hospitals)",
+      "group": "Noida (3 Hospitals)",
       "region": "NR-I"
     },
     {
@@ -3363,7 +3363,7 @@ const COMPENDIUM_DATA = {
       "name": "Dr. Balabhai Nanavati Hospital",
       "city": "Mumbai",
       "addr": "S.V. Road, Vileparle, West- Mumbai",
-      "group": "Mumbai (11 Hospitals)",
+      "group": "Mumbai (9 Hospitals)",
       "region": "WR-I"
     },
     {
@@ -3372,7 +3372,7 @@ const COMPENDIUM_DATA = {
       "name": "Holy Spirit Hospital",
       "city": "Mumbai",
       "addr": "Mahakali Caves Rd., Andheri East, Mumbai",
-      "group": "Mumbai (11 Hospitals)",
+      "group": "Mumbai (9 Hospitals)",
       "region": "WR-I"
     },
     {
@@ -3381,7 +3381,7 @@ const COMPENDIUM_DATA = {
       "name": "P.D. Hinduja Hospital",
       "city": "Mumbai",
       "addr": "Veer Savarkar Marg, Mahim West, Mumbai",
-      "group": "Mumbai (11 Hospitals)",
+      "group": "Mumbai (9 Hospitals)",
       "region": "WR-I"
     },
     {
@@ -3390,7 +3390,7 @@ const COMPENDIUM_DATA = {
       "name": "L.H. Hiranandani, Hospital",
       "city": "Mumbai",
       "addr": "Hiranandani Garden, Powai, Mumbai",
-      "group": "Mumbai (11 Hospitals)",
+      "group": "Mumbai (9 Hospitals)",
       "region": "WR-I"
     },
     {
@@ -3399,7 +3399,7 @@ const COMPENDIUM_DATA = {
       "name": "Fortis Hospital Ltd",
       "city": "Mumbai",
       "addr": "Mulund Goregaon, Link Road, Bhandup, West, Mumbai",
-      "group": "Mumbai (11 Hospitals)",
+      "group": "Mumbai (9 Hospitals)",
       "region": "WR-I"
     },
     {
@@ -3408,7 +3408,7 @@ const COMPENDIUM_DATA = {
       "name": "Kokilaben Dhirubhai Ambani Hospital",
       "city": "Mumbai",
       "addr": "Four Bungalows, Andheri West, Mumbai",
-      "group": "Mumbai (11 Hospitals)",
+      "group": "Mumbai (9 Hospitals)",
       "region": "WR-I"
     },
     {
@@ -3417,7 +3417,7 @@ const COMPENDIUM_DATA = {
       "name": "Tata Memorial, Hospital",
       "city": "Mumbai",
       "addr": "Dr.Earnest Borges, Marg, Parel, Mumbai",
-      "group": "Mumbai (11 Hospitals)",
+      "group": "Mumbai (9 Hospitals)",
       "region": "WR-I"
     },
     {
@@ -3426,7 +3426,7 @@ const COMPENDIUM_DATA = {
       "name": "Jaslok Hospital and Research Centre",
       "city": "Mumbai",
       "addr": "15, Pedder Rd, It Colony, Tardeo, Mumbai",
-      "group": "Mumbai (11 Hospitals)",
+      "group": "Mumbai (9 Hospitals)",
       "region": "WR-I"
     },
     {
@@ -3435,7 +3435,7 @@ const COMPENDIUM_DATA = {
       "name": "Sir H. N. Reliance Foundation Hospital and Research Centre",
       "city": "Mumbai",
       "addr": "Girgaum, Mumbai \u2013 400004, Maharashtra",
-      "group": "Mumbai (11 Hospitals)",
+      "group": "Mumbai (9 Hospitals)",
       "region": "WR-I"
     },
     {
@@ -3741,7 +3741,7 @@ const COMPENDIUM_DATA = {
       "name": "Kokilaben Dhirubhai Ambani Hospital",
       "city": "Mumbai",
       "addr": "Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Andheri West, Mumbai",
-      "group": "Mumbai (11 Hospitals)",
+      "group": "Mumbai (2 Hospitals)",
       "region": "WR-II"
     },
     {
@@ -3750,7 +3750,7 @@ const COMPENDIUM_DATA = {
       "name": "Lilavati Hospital and Research Centre",
       "city": "Mumbai",
       "addr": "A-791, Bandra Reclamation, Bandra(W) Mumbai",
-      "group": "Mumbai (11 Hospitals)",
+      "group": "Mumbai (2 Hospitals)",
       "region": "WR-II"
     },
     {
@@ -4622,84 +4622,84 @@ const COMPENDIUM_DATA = {
       "sl": 24,
       "city": "Vijayawada",
       "addr": "29-4-30, Kodanda Rami Reddy Street, Governorpet (Near Andhra Hospital), Vijayawada-2,Vijayawada-520002, Andhra Pradesh",
-      "group": "Vijayawada (0 Centres)",
+      "group": "Vijayawada (1 Centre)",
       "region": "SR-I"
     },
     {
       "sl": 25,
       "city": "Visakhapatnam",
       "addr": "No: 10-54-7, Lions Club Building, Waltair Road, Ram Nagar, Visakhapatnam - 530002",
-      "group": "Visakhapatnam (0 Centres)",
+      "group": "Visakhapatnam (1 Centre)",
       "region": "SR-I"
     },
     {
       "sl": 26,
       "city": "Dibrugarh",
       "addr": "Garahambazara.Troaddibrugarh- 786001 Assam",
-      "group": "Dibrugarh (0 Centres)",
+      "group": "Dibrugarh (1 Centre)",
       "region": "NER"
     },
     {
       "sl": 27,
       "city": "Sichar",
       "addr": "Dr. Lal Path Labs Ltd (Sree Ram Tower Telecom Services) Opposite Sanjoy Market.N.Savenue,Silchar-788005.",
-      "group": "Sichar (0 Centres)",
+      "group": "Sichar (1 Centre)",
       "region": "NER"
     },
     {
       "sl": 28,
       "city": "Darbhanga",
       "addr": "Mohalla Chakshaid Jahan Benta Laheria Sarai,Darbhanga 846003 Bihar",
-      "group": "Darbhanga (0 Centres)",
+      "group": "Darbhanga (1 Centre)",
       "region": "ER-I"
     },
     {
       "sl": 29,
       "city": "Muzaffarpur",
       "addr": "Chetan Sadhan ,Opposite Jila Parishad Market , Juran Chapra Main Road, Muzaffarpur",
-      "group": "Muzaffarpur (0 Centres)",
+      "group": "Muzaffarpur (1 Centre)",
       "region": "ER-I"
     },
     {
       "sl": 30,
       "city": "Patna",
       "addr": "R.K. Estate(Basement,2nd & 3rd Floor),Opposite Igims Main Gate,Near Pillar No.62,Rajabazar,Bailey Road,Patna",
-      "group": "Patna (0 Centres)",
+      "group": "Patna (2 Centres)",
       "region": "ER-I"
     },
     {
       "sl": 31,
       "city": "Patna",
       "addr": "A/214 P.C.Coloney Kankarbagh Patna Bihar 800020",
-      "group": "Patna (0 Centres)",
+      "group": "Patna (2 Centres)",
       "region": "ER-I"
     },
     {
       "sl": 32,
       "city": "Bhilai",
       "addr": "Plot No-4, Buniyad Complex, Nehru Nagar East, Bhilai, District- Durg, Chhattisgarh-490 020",
-      "group": "Bhilai (0 Centres)",
+      "group": "Bhilai (1 Centre)",
       "region": "WR-I"
     },
     {
       "sl": 33,
       "city": "Bilaspur",
       "addr": "Devaki Nandan Chowk, Opp-Petrol Pump/Temple, Bilaspur",
-      "group": "Bilaspur (0 Centres)",
+      "group": "Bilaspur (1 Centre)",
       "region": "WR-I"
     },
     {
       "sl": 34,
       "city": "Raipur",
       "addr": "Ground Floor, Bhatia Complex, Opp Rajkumar College, Geroad, Raipur-492 001, Chhattisgarh",
-      "group": "Raipur (0 Centres)",
+      "group": "Raipur (2 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 35,
       "city": "Raipur",
       "addr": "C/O Modern Pathology Lab, Shop No 1,2,3,4, Garcha Complex, Jail Road, Kutchery Chowk,Raipur-492001, Chhattisgarh",
-      "group": "Raipur (0 Centres)",
+      "group": "Raipur (2 Centres)",
       "region": "WR-I"
     },
     {
@@ -4944,812 +4944,812 @@ const COMPENDIUM_DATA = {
       "sl": 70,
       "city": "Ahmedabad",
       "addr": "A103/104/203, Aasthan Complex, Opp. Polytechnic, Panjarapole, Ahmedabad- 380 015, Gujarat.",
-      "group": "Ahmedabad (0 Centres)",
+      "group": "Ahmedabad (3 Centres)",
       "region": "WR-II"
     },
     {
       "sl": 71,
       "city": "Ahmedabad",
       "addr": "Pir Mohamadshah Mansion, Gheekanta Char Rasta, Reliefroad, Ahmedabad- 380 001, Gujarat.",
-      "group": "Ahmedabad (0 Centres)",
+      "group": "Ahmedabad (3 Centres)",
       "region": "WR-II"
     },
     {
       "sl": 72,
       "city": "Ahmedabad",
       "addr": "002/101/102, Titanium City Centre Mall, 100 Feet Ring Road, Next to Sachin Towers,Prahladnagar, Satellite,Ahmedabad- 380 015, Gujarat",
-      "group": "Ahmedabad (0 Centres)",
+      "group": "Ahmedabad (3 Centres)",
       "region": "WR-II"
     },
     {
       "sl": 73,
       "city": "Vadodara",
       "addr": "Shop No: 1,2,3&4, Capri House Ii, 15 Sudha Nagar, Jetalpurroad, Vadodara-390 007, Gujarat",
-      "group": "Vadodara (0 Centres)",
+      "group": "Vadodara (1 Centre)",
       "region": "WR-II"
     },
     {
       "sl": 74,
       "city": "Ambala",
       "addr": "1179, Gf, B-9, Amrit Nagar, Opp.Ambala Club, Near Inco Chowk, Old Delhi Roadambalacity,Ambala-134003-Haryana",
-      "group": "Ambala (0 Centres)",
+      "group": "Ambala (1 Centre)",
       "region": "NR-I"
     },
     {
       "sl": 75,
       "city": "Faridabad",
       "addr": "Scf-155, Ground Floor, Huda Market, Sector-9, Faridabad-121006, Haryana",
-      "group": "Faridabad (0 Centres)",
+      "group": "Faridabad (2 Centres)",
       "region": "NR-I"
     },
     {
       "sl": 76,
       "city": "Faridabad",
       "addr": "Sco-30, Sector-16, Faridabad-121002, Haryana.",
-      "group": "Faridabad (0 Centres)",
+      "group": "Faridabad (2 Centres)",
       "region": "NR-I"
     },
     {
       "sl": 77,
       "city": "Gurgaon",
       "addr": "Sf 103, First Floor, Galleria Market, Dlf Phase - Iv, Gurgaon -122001, Haryana.",
-      "group": "Gurgaon (0 Centres)",
+      "group": "Gurgaon (4 Centres)",
       "region": "CC"
     },
     {
       "sl": 78,
       "city": "Gurgaon",
       "addr": "Shop No. 54,55 the Sapphire Sec-49 Opp. Orchid Petals, Sohnaroad, Gurgaon-122018-Haryana",
-      "group": "Gurgaon (0 Centres)",
+      "group": "Gurgaon (4 Centres)",
       "region": "CC"
     },
     {
       "sl": 79,
       "city": "Gurgaon",
       "addr": "C-1/B, Clear View, Old Dlf Colony, Sector-14, Gurgaon-122001, Haryana.",
-      "group": "Gurgaon (0 Centres)",
+      "group": "Gurgaon (4 Centres)",
       "region": "CC"
     },
     {
       "sl": 80,
       "city": "Gurgaon",
       "addr": "Shop No. 9,10, 30,31, Dlf City Court, Sikanderpur, Gurgaon -122001, Haryana",
-      "group": "Gurgaon (0 Centres)",
+      "group": "Gurgaon (4 Centres)",
       "region": "CC"
     },
     {
       "sl": 81,
       "city": "Hisar",
       "addr": "Sector 13 - Near Easy Day Store, Tosham Road, Hisar -125050, Haryana",
-      "group": "Hisar (0 Centres)",
+      "group": "Hisar (1 Centre)",
       "region": "NR-I"
     },
     {
       "sl": 82,
       "city": "Panchkula",
       "addr": "Sco 241, Sec 20, Panchkula - 134116",
-      "group": "Panchkula (0 Centres)",
+      "group": "Panchkula (1 Centre)",
       "region": "NR-I"
     },
     {
       "sl": 83,
       "city": "Panipat",
       "addr": "Scf -35,Ground Floor,Sector-11,Near New Angel Mall,Huda,Panipat-132103, Harayana.",
-      "group": "Panipat (0 Centres)",
+      "group": "Panipat (1 Centre)",
       "region": "NR-I"
     },
     {
       "sl": 84,
       "city": "Rewari",
       "addr": "Near Ambedkar Chowk,Rewari-123401-Haryana",
-      "group": "Rewari (0 Centres)",
+      "group": "Rewari (1 Centre)",
       "region": "NR-I"
     },
     {
       "sl": 85,
       "city": "Rohtak",
       "addr": "1267, Chotu Ram Chownk, Opp. Nilli Kothi,Civil Road,Rohtak-124001-Haryana",
-      "group": "Rohtak (0 Centres)",
+      "group": "Rohtak (1 Centre)",
       "region": "NR-I"
     },
     {
       "sl": 86,
       "city": "Sirsa",
       "addr": "Circular Road, Sirsa, Haryana - 125055",
-      "group": "Sirsa (0 Centres)",
+      "group": "Sirsa (1 Centre)",
       "region": "NR-I"
     },
     {
       "sl": 87,
       "city": "Sonipat",
       "addr": "Scf \u2013 3, Sector \u2013 14, Main Market, Sonipat-131001-Haryana",
-      "group": "Sonipat (0 Centres)",
+      "group": "Sonipat (1 Centre)",
       "region": "NR-I"
     },
     {
       "sl": 88,
       "city": "Yamuna Nagar",
       "addr": "67 a/L Model Town, Opp. Pnb, Nehru Park Road, Yamunanagar.135001 Haryana",
-      "group": "Yamuna Nagar (0 Centres)",
+      "group": "Yamuna Nagar (1 Centre)",
       "region": "NR-I"
     },
     {
       "sl": 89,
       "city": "Kangra",
       "addr": "Ward No- 6, Village- Sadarpur, Near Rpgmc, Tanda, District-Kangra-176001 -(H.P)",
-      "group": "Kangra (0 Centres)",
+      "group": "Kangra (1 Centre)",
       "region": "NR-II"
     },
     {
       "sl": 90,
       "city": "Shimla",
       "addr": "Sarab Complex, N.H.-20, Shimla to Rampur Highway, Mainmarket, Sanjauli, Shimla -171006-H.P",
-      "group": "Shimla (0 Centres)",
+      "group": "Shimla (2 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 91,
       "city": "Shimla",
       "addr": "Mansarover Cottage Centre: Mansarover Cottage Firstfloor, Near Igmc, Shimla, 171006.H.P",
-      "group": "Shimla (0 Centres)",
+      "group": "Shimla (2 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 92,
       "city": "Anantnag",
       "addr": "Saba Complex, Khah Bazar, Anantnag-192101-J&K",
-      "group": "Anantnag (0 Centres)",
+      "group": "Anantnag (1 Centre)",
       "region": "NR-II"
     },
     {
       "sl": 93,
       "city": "Jammu",
       "addr": "88, B. C. Road, Rehari, Jammu- 180001, J&K.",
-      "group": "Jammu (0 Centres)",
+      "group": "Jammu (4 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 94,
       "city": "Jammu",
       "addr": "Disco Road, Indra Colony, Near Dream Land School,Janipur, Jammu - 180001, J & K.",
-      "group": "Jammu (0 Centres)",
+      "group": "Jammu (4 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 95,
       "city": "Jammu",
       "addr": "Groung Floor, 21c, B Block, Gandhi Nagar, Jammu,180004-J&K",
-      "group": "Jammu (0 Centres)",
+      "group": "Jammu (4 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 96,
       "city": "Jammu",
       "addr": "Ground Floor, Shop No. 2 & 3, Chowdhary Complex, Trikutanagar, Jammu-180012",
-      "group": "Jammu (0 Centres)",
+      "group": "Jammu (4 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 97,
       "city": "Srinagar",
       "addr": "140-a, Kak Sarai, Karan Nagar, Srinagar-190010, J&K.",
-      "group": "Srinagar (0 Centres)",
+      "group": "Srinagar (1 Centre)",
       "region": "NR-II"
     },
     {
       "sl": 98,
       "city": "Dhanbad",
       "addr": "Unit G-3, Ozone Center, Ashok Nagar, Dhansar Dhanbad,Jharkhand, Pin-828106",
-      "group": "Dhanbad (0 Centres)",
+      "group": "Dhanbad (1 Centre)",
       "region": "ER-I"
     },
     {
       "sl": 99,
       "city": "Jamshedpur",
       "addr": "Shop No. 2. 3 & 4, Sai Jambo Tower, Near Hanuman Mandir,Bhalubasa, Jamshedpur, Jharkhand - 831009",
-      "group": "Jamshedpur (0 Centres)",
+      "group": "Jamshedpur (1 Centre)",
       "region": "ER-I"
     },
     {
       "sl": 100,
       "city": "Ranchi",
       "addr": "1st Floor, Sourabh Tower Plot-615, Bariatu Road Nearkaram Toli Chowk, Ranchi JK-834008",
-      "group": "Ranchi (0 Centres)",
+      "group": "Ranchi (2 Centres)",
       "region": "ER-I"
     },
     {
       "sl": 101,
       "city": "Ranchi",
       "addr": "Shop No-119,Opp-Pantaloons,Jascon Plaza,Circular Road,Near - Dangratoli Chowk,Lalpur Ranchi,Jharkhand-834001",
-      "group": "Ranchi (0 Centres)",
+      "group": "Ranchi (2 Centres)",
       "region": "ER-I"
     },
     {
       "sl": 102,
       "city": "Bhopal",
       "addr": "Plot No.05, Mandakini Housing Society, Near Apurti Shopping Mall, Kolar Main Road, Bhopal-462042, M.P.",
-      "group": "Bhopal (0 Centres)",
+      "group": "Bhopal (4 Centres)",
       "region": "WR-II"
     },
     {
       "sl": 103,
       "city": "Bhopal",
       "addr": "77, Motia Talab, Opp. Tajul Masajid, Bhopal - 462 001, M.P.",
-      "group": "Bhopal (0 Centres)",
+      "group": "Bhopal (4 Centres)",
       "region": "WR-II"
     },
     {
       "sl": 104,
       "city": "Bhopal",
       "addr": "131/10, Golden Tower, Near Sargam Talkies, M.P. Nagar,Zone - 2, Bhopal - 462016, M.P.",
-      "group": "Bhopal (0 Centres)",
+      "group": "Bhopal (4 Centres)",
       "region": "WR-II"
     },
     {
       "sl": 105,
       "city": "Bhopal",
       "addr": "Ground Floor , No. 230, Om Shiv Grah Nirman Sahkari Samiti, Near Railway Line Crossing,Airport Road,Lalghati,Bhopal - 462032",
-      "group": "Bhopal (0 Centres)",
+      "group": "Bhopal (4 Centres)",
       "region": "WR-II"
     },
     {
       "sl": 106,
       "city": "Gwalior",
       "addr": "1, Ground Floor, Central Mall, Opp. Achleshwar Mandir,Sanatan Dharm Mandir Road, Lashkar, Gwalior - 474009, M.P.",
-      "group": "Gwalior (0 Centres)",
+      "group": "Gwalior (1 Centre)",
       "region": "WR-II"
     },
     {
       "sl": 107,
       "city": "Indore",
       "addr": "H No -1, Santoshi Height, Chandralok Colony, Khajranamain Road, Indore-452 001, M.P.",
-      "group": "Indore (0 Centres)",
+      "group": "Indore (1 Centre)",
       "region": "WR-II"
     },
     {
       "sl": 108,
       "city": "Jabalpur",
       "addr": "46, Ahuja Towers, Napier Town, Russel Chowk, Jabalpur-482001, M.P.",
-      "group": "Jabalpur (0 Centres)",
+      "group": "Jabalpur (1 Centre)",
       "region": "WR-II"
     },
     {
       "sl": 109,
       "city": "Sagar",
       "addr": "Ground Floor, in Front of Bundelkhand Medical College,Tilli , Near Goutam Traders , Sagar Madhya Pradesh- 470001",
-      "group": "Sagar (0 Centres)",
+      "group": "Sagar (1 Centre)",
       "region": "WR-II"
     },
     {
       "sl": 110,
       "city": "Aurangabad",
       "addr": "227, Near Kasbekar Hospital, Varad Ganesh Mandir Road, Samarth Nagar, Aurangabad-431001, Maharashtra",
-      "group": "Aurangabad (0 Centres)",
+      "group": "Aurangabad (1 Centre)",
       "region": "WR-I"
     },
     {
       "sl": 111,
       "city": "Mumbai",
       "addr": "Shop No.05,Shashtri Hall New Bldg.,Javji Dadaji Marg,Nearnana Chowk,Tardeo Road,Mumbai-400007",
-      "group": "Mumbai (0 Centres)",
+      "group": "Mumbai (4 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 112,
       "city": "Mumbai",
       "addr": "Shop 8, Groud Floor, Kiran Towers Co-Operative Housing Society Limited, Rajanpada,Pannalal Ghoshmarg, Malad (W), Mumbai-400064, Maharashtra",
-      "group": "Mumbai (0 Centres)",
+      "group": "Mumbai (4 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 113,
       "city": "Mumbai",
       "addr": "Shop No. 10-11, Ground Floor, Tirupati Complex Co- Operative Housing Society, Plot No-3, Sec-44, Seawood, Nerul Node, Navi Mumbai-400706, Maharashtra",
-      "group": "Mumbai (0 Centres)",
+      "group": "Mumbai (4 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 114,
       "city": "Mumbai",
       "addr": "Ground Floor,Shop No.3c, Plot No.202, Gayatri Niwas, Opp. Sandu Marg Post Office, Sandumarg, Chembur, Mumbai-400 071",
-      "group": "Mumbai (0 Centres)",
+      "group": "Mumbai (4 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 115,
       "city": "Nagpur",
       "addr": "Plot No. 07, Ground Floor,Wardha Road,Dhantoli, Opp- Big Bazaar,Nagpur-440012",
-      "group": "Nagpur (0 Centres)",
+      "group": "Nagpur (2 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 116,
       "city": "Nagpur",
       "addr": "Dr. Lal Pathlabs Ltd. |No 16, Situated at Sneh Nagar, Survey No 29/1 & 29/2, Mouza-Somalwada, Nagpur-440015",
-      "group": "Nagpur (0 Centres)",
+      "group": "Nagpur (2 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 117,
       "city": "Nasik",
       "addr": "Shop No.24,Upper Ground Floor,Woodland Tower Apt,Near Hotel Vihar,Old Gangapurnaka,Gangapur Road,Nasik-422005,Maharashtra",
-      "group": "Nasik (0 Centres)",
+      "group": "Nasik (1 Centre)",
       "region": "WR-I"
     },
     {
       "sl": 118,
       "city": "Navimumbai",
       "addr": "Shop No.9 & 10, Haware Shramik Chs. Plot No.17,Sector 20, Shilp Chowk,Kharghar-41021,Navi Mumbai,Maharashtra",
-      "group": "Navimumbai (0 Centres)",
+      "group": "Navimumbai (2 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 119,
       "city": "Navimumbai",
       "addr": "Ground Floor Shop No.38,Crystal Plaza,Hiranandani Complex,Sector-7,Kharghar,Navimumbai-4110210,Maharashtra",
-      "group": "Navimumbai (0 Centres)",
+      "group": "Navimumbai (2 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 120,
       "city": "Pune",
       "addr": "Ground Floor, Anand Emerald, Sakore Nagar, New-Airport Road, Near Symbiosis International University,Viman Nagar, Pune - 411014, Maharashtra",
-      "group": "Pune (0 Centres)",
+      "group": "Pune (3 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 121,
       "city": "Pune",
       "addr": "Vikram Chambers, Near Prof. Ramkrishna More Sabhagruha, Near Gokhale Plaza, Chinchwadgaon, Pune-411 033",
-      "group": "Pune (0 Centres)",
+      "group": "Pune (3 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 122,
       "city": "Pune",
       "addr": "Shop No. 40, Ground Floor, Sacred Heart Town Shoppingcomplex,75/2/2, Wananwadi, Pune \u2013 411040",
-      "group": "Pune (0 Centres)",
+      "group": "Pune (3 Centres)",
       "region": "WR-I"
     },
     {
       "sl": 123,
       "city": "Thane",
       "addr": "16a-16b, Sohum Plaza, Godbunder Road, Manpada, Thane(West), Mumbai- 400607, Maharashtra",
-      "group": "Thane (0 Centres)",
+      "group": "Thane (1 Centre)",
       "region": "WR-I"
     },
     {
       "sl": 124,
       "city": "Bhubneshwar",
       "addr": "Purabi,Plot No 2084/4837,Gautam Nagar ,Bhubnaeswar -14,Odisha",
-      "group": "Bhubneshwar (0 Centres)",
+      "group": "Bhubneshwar (1 Centre)",
       "region": "ER-II"
     },
     {
       "sl": 125,
       "city": "Amritsar",
       "addr": "S.S.Tower,Plot No.59,Shop No-4,Opp.E.N.T.Hospital,Majitha Road,Amritsar-143001,Punjab.",
-      "group": "Amritsar (0 Centres)",
+      "group": "Amritsar (3 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 126,
       "city": "Amritsar",
       "addr": "S.C.F Ground Floor No. 31, C Block Market, Ranjit Avenue,Sector-3, Amritsar-143001, Punjab.",
-      "group": "Amritsar (0 Centres)",
+      "group": "Amritsar (3 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 127,
       "city": "Amritsar",
       "addr": "S.C.F No. 2374, Kot Kanhaya Lal, Sultanwind Road,Near Ajit Nagar Chowk, Amritsar ,Punjab-143006",
-      "group": "Amritsar (0 Centres)",
+      "group": "Amritsar (3 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 128,
       "city": "Bathinda",
       "addr": "3025/26, Guru Kanshi Marg, Opposite Lg Showroom, Nearfouji Chowk, Bathinda - 151001",
-      "group": "Bathinda (0 Centres)",
+      "group": "Bathinda (1 Centre)",
       "region": "NR-II"
     },
     {
       "sl": 129,
       "city": "Chandigarh",
       "addr": "Booth No 3. Sector -19 D. Chandigarh- 16001-Punjab",
-      "group": "Chandigarh (0 Centres)",
+      "group": "Chandigarh (4 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 130,
       "city": "Chandigarh",
       "addr": "Booth No 336 ,Sec-44d, Chandigarh-160047-Punjab",
-      "group": "Chandigarh (0 Centres)",
+      "group": "Chandigarh (4 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 131,
       "city": "Chandigarh",
       "addr": "Booth No 100,Sector-38 C, Chandigarh-160036",
-      "group": "Chandigarh (0 Centres)",
+      "group": "Chandigarh (4 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 132,
       "city": "Chandigarh",
       "addr": "Booth No. 343, Sector 32 D, Chandigarh - 160032-Punjab",
-      "group": "Chandigarh (0 Centres)",
+      "group": "Chandigarh (4 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 133,
       "city": "Hoshiarpur",
       "addr": "Ram Complex, Mohalla Kamalpur, Near Civil Hospital, Jalandhar Road, Hoshiarpur-146001-Punjab",
-      "group": "Hoshiarpur (0 Centres)",
+      "group": "Hoshiarpur (1 Centre)",
       "region": "NR-II"
     },
     {
       "sl": 134,
       "city": "Jalandhar",
       "addr": "1200-1201,Ajit Nagar ,Opp City Garden, Near Ajit Nagar Gurdawara, Nakodar Chowk,Jalandhar - 144001-Punjab.",
-      "group": "Jalandhar (0 Centres)",
+      "group": "Jalandhar (1 Centre)",
       "region": "NR-II"
     },
     {
       "sl": 135,
       "city": "Khanna",
       "addr": "Plot No. B007/1684, Ambica Complex, Opp. Main Bus Stand,Gt Road, Khanna - 141401 - Punjab",
-      "group": "Khanna (0 Centres)",
+      "group": "Khanna (1 Centre)",
       "region": "NR-II"
     },
     {
       "sl": 136,
       "city": "Ludhiana",
       "addr": "B-19,1121/a, Ground Floor, N.C Complex, Near Dmc, Tagore Nagar, Rajpura Road,Civil Lines,Ludhiana-141001,Punjab",
-      "group": "Ludhiana (0 Centres)",
+      "group": "Ludhiana (5 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 137,
       "city": "Ludhiana",
       "addr": "4047, Lig Flats, Phase Ii, Urban State (Near Police Station)Dugri, Ludhiana - 141002",
-      "group": "Ludhiana (0 Centres)",
+      "group": "Ludhiana (5 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 138,
       "city": "Ludhiana",
       "addr": "12-C, Sarabha Nagar, Ludhiana-141001, Punjab.",
-      "group": "Ludhiana (0 Centres)",
+      "group": "Ludhiana (5 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 139,
       "city": "Ludhiana",
       "addr": "Dr. B.D. Sabharwal, # 907/19, Adj School for Deaf and Dumb Children, Tagore Nagar\u2013 a,Ludhiana-141001-Punjab",
-      "group": "Ludhiana (0 Centres)",
+      "group": "Ludhiana (5 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 140,
       "city": "Ludhiana",
       "addr": "Ground Floor, Unit No:-B-Xi-964, Baba Than Singh Chowk, Samrala-Chandigarh Road,Ludhiana-141008-Punjab",
-      "group": "Ludhiana (0 Centres)",
+      "group": "Ludhiana (5 Centres)",
       "region": "NR-II"
     },
     {
       "sl": 141,
       "city": "Moga",
       "addr": "City Complex, Near Planet Fashion Showroom, Partaproad, Moga - 142001, Punjab",
-      "group": "Moga (0 Centres)",
+      "group": "Moga (1 Centre)",
       "region": "NR-II"
     },
     {
       "sl": 142,
       "city": "Mohali",
       "addr": "Booth No : 52, Phase 7, Mohali-160055-Punjab",
-      "group": "Mohali (0 Centres)",
+      "group": "Mohali (1 Centre)",
       "region": "NR-II"
     },
     {
       "sl": 143,
       "city": "Pathankot",
       "addr": "Ground Floor, Mk2 Complex, Near Kaalu Ka Petrolpump,Dalhousie Road, Pathankot-145001-Punjab",
-      "group": "Pathankot (0 Centres)",
+      "group": "Pathankot (1 Centre)",
       "region": "NR-II"
     },
     {
       "sl": 144,
       "city": "Patiala",
       "addr": "Leela Bhawan Chowk, Opposite Gopal Sweets, Patiala -147001",
-      "group": "Patiala (0 Centres)",
+      "group": "Patiala (1 Centre)",
       "region": "NR-II"
     },
     {
       "sl": 145,
       "city": "Jaipur",
       "addr": "A-34, Prabhu Marg, Centre Point Building, Opp. a.C. Market, Tilak Nagar, Raja Park, Jaipur-302004, Rajasthan",
-      "group": "Jaipur (0 Centres)",
+      "group": "Jaipur (1 Centre)",
       "region": "NWR"
     },
     {
       "sl": 146,
       "city": "Jodhpur",
       "addr": "E-123, Shastri Nagar, Opp Manidhari Hospital, Residencyroad, Jodhpur-342 001, Rajasthan",
-      "group": "Jodhpur (0 Centres)",
+      "group": "Jodhpur (1 Centre)",
       "region": "NWR"
     },
     {
       "sl": 147,
       "city": "Kota",
       "addr": "1-B-32 & 33, Talwandi, Rhb,Commerce College Road, Kota-324 005, Rajasthan.",
-      "group": "Kota (0 Centres)",
+      "group": "Kota (1 Centre)",
       "region": "NWR"
     },
     {
       "sl": 148,
       "city": "Udaipur",
       "addr": "Amolak Diagnostics Pvt Ltd, 24-C, Madhuban, Near Chetakcirlce, Opp Gpo, Udaipur-313001, Rajasthan",
-      "group": "Udaipur (0 Centres)",
+      "group": "Udaipur (2 Centres)",
       "region": "NWR"
     },
     {
       "sl": 149,
       "city": "Udaipur",
       "addr": "1-Ta-25 & 1-Ta-13, Ground Floor, Rhb Colony, Near Shashtrimisthan Bhandar, Sector -5, Hirang Magri, Udaipur-313 002, Rajasthan",
-      "group": "Udaipur (0 Centres)",
+      "group": "Udaipur (2 Centres)",
       "region": "NWR"
     },
     {
       "sl": 150,
       "city": "Hyderabad",
       "addr": "G29 & G30, Ground Floor, Swarna Jayanti Complex Beside Huda Maitrivanam Building, Ameerpet, Hyderabad-500038,Andhra Pradesh.",
-      "group": "Hyderabad (0 Centres)",
+      "group": "Hyderabad (2 Centres)",
       "region": "SR-I"
     },
     {
       "sl": 151,
       "city": "Hyderabad",
       "addr": "Plot No 22,Ayyappa Arcade,Janardhan Hills,Gachibowli,Serilingampalli,Hyderabad-32",
-      "group": "Hyderabad (0 Centres)",
+      "group": "Hyderabad (2 Centres)",
       "region": "SR-I"
     },
     {
       "sl": 152,
       "city": "Agartala",
       "addr": "Dr. P. B. Das Memorial Diagnostic Centre, Bidurkartachowuhani, Agartala-799001",
-      "group": "Agartala (0 Centres)",
+      "group": "Agartala (1 Centre)",
       "region": "NER"
     },
     {
       "sl": 153,
       "city": "Agra",
       "addr": "G1, Vinayak Mall, Surya Nagar, Civil Lines, Near Diwanichowk, Agra-282002, U.P.",
-      "group": "Agra (0 Centres)",
+      "group": "Agra (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 154,
       "city": "Aligarh",
       "addr": "3/168, Kushwah Complex, Vidhya Nagar Colony, Opp Obcbank, Near Great Shopping Mall, Ramghat Road, Aligarh- 202001, U.P.",
-      "group": "Aligarh (0 Centres)",
+      "group": "Aligarh (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 155,
       "city": "Allahabad",
       "addr": "29-B, P.D. Tandon Marg, Vivekanand Churaha Near I-Indiamart, Civil Lines Allahabad-211001",
-      "group": "Allahabad (0 Centres)",
+      "group": "Allahabad (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 156,
       "city": "Azamgarh",
       "addr": "Shop No. 120 & 121, Civil Lines, Opposite Civil Court, Near Busstand",
-      "group": "Azamgarh (0 Centres)",
+      "group": "Azamgarh (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 157,
       "city": "Bareilly",
       "addr": "Jai Hind Kothi, Maccnair Road, Prem Nagar",
-      "group": "Bareilly (0 Centres)",
+      "group": "Bareilly (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 158,
       "city": "Bijnore",
       "addr": "Near Main Branch of Punjab Nation Bank, Civil Lines,Bijnore, U.P -246701",
-      "group": "Bijnore (0 Centres)",
+      "group": "Bijnore (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 159,
       "city": "Deoria",
       "addr": "Rani Ghati Khoti, Near Jk Mittal Academy, Salempur Road",
-      "group": "Deoria (0 Centres)",
+      "group": "Deoria (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 160,
       "city": "Faizabad",
       "addr": "Hall No 2 Mukut Complex Rikub Ganj Faizabad up 224001",
-      "group": "Faizabad (0 Centres)",
+      "group": "Faizabad (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 161,
       "city": "Ghaziabad",
       "addr": "Ground Floor, Shop No: Bg-03,Aditya Shopping Complex,Plot No. C/Gh-3, Vaibhav Khand, Indirapuram,Ghaziabad.- 201014-U.P",
-      "group": "Ghaziabad (0 Centres)",
+      "group": "Ghaziabad (4 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 162,
       "city": "Ghaziabad",
       "addr": "Ground Floor, Plot No.20, Sector-15c, Near Sbi,Vasundhara, Ghaziabad,201012, U.P.",
-      "group": "Ghaziabad (0 Centres)",
+      "group": "Ghaziabad (4 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 163,
       "city": "Ghaziabad",
       "addr": "Shop No. C3,C4,Ground Floor,Saya Buildcon Ahinsa Khand - 2,Plot No.Gh-11,Near Cisfcamp,Indirapuram, Ghaziabad",
-      "group": "Ghaziabad (0 Centres)",
+      "group": "Ghaziabad (4 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 164,
       "city": "Ghaziabad",
       "addr": "C-30, Rdc, Near Krishna Sagar, Rajnagar, Ghaziabad- 201002,U.P.",
-      "group": "Ghaziabad (0 Centres)",
+      "group": "Ghaziabad (4 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 165,
       "city": "Gorakhpur Sadar",
       "addr": "10 Park Road, Beside City Mall, Civil Line, Gorakhpur,",
-      "group": "Gorakhpur Sadar (0 Centres)",
+      "group": "Gorakhpur Sadar (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 166,
       "city": "Kanpur",
       "addr": "117/H-2/168-a,Pandunagar,Kanpur-208005,up",
-      "group": "Kanpur (0 Centres)",
+      "group": "Kanpur (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 167,
       "city": "Lucknow",
       "addr": "8 Mandir Marg Mahanagar Ext. Lucknow226006",
-      "group": "Lucknow (0 Centres)",
+      "group": "Lucknow (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 168,
       "city": "Meerut",
       "addr": "5/5, Begam Bridge Road Opp. Raj Vanshi Kanya Inter College,Beside Akash Ganga Jwellers.",
-      "group": "Meerut (0 Centres)",
+      "group": "Meerut (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 169,
       "city": "Noida",
       "addr": "Shop No: G-18,G-19,G-20 & G-21, Msx Tower-Ii, B-2, Alpha- 1,Alpha Commercial Belt,Greaternoida, Gautam Budhnagar-201308-U.P",
-      "group": "Noida (0 Centres)",
+      "group": "Noida (4 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 170,
       "city": "Noida",
       "addr": "B-1/1, Central Market, Sector \u2013 50, Noida-201301, U.P.",
-      "group": "Noida (0 Centres)",
+      "group": "Noida (4 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 171,
       "city": "Noida",
       "addr": "N-27, Sector-18, Noida-201301, U.P.",
-      "group": "Noida (0 Centres)",
+      "group": "Noida (4 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 172,
       "city": "Noida",
       "addr": "Shop No-103,Jaipuria Plaza,Sector-26 Noida-201301-U.P",
-      "group": "Noida (0 Centres)",
+      "group": "Noida (4 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 173,
       "city": "Saharanpur",
       "addr": "2/880/37, Dr. Bheem Rao Ambedkar Marg, Opp. Sophiamarket, Court Road, Saharanpur- 247 001, U.P.",
-      "group": "Saharanpur (0 Centres)",
+      "group": "Saharanpur (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 174,
       "city": "Varanasi",
       "addr": "Nidan Kendra Godowlia, Varanasi, U.P. - 221010",
-      "group": "Varanasi (0 Centres)",
+      "group": "Varanasi (2 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 175,
       "city": "Varanasi",
       "addr": "38,Gr.Flr.Shastri Nagar, Opp Sajan Cinema Hall, Sigravaranasi 221001 , U.P 0542-2222282, 07851810462",
-      "group": "Varanasi (0 Centres)",
+      "group": "Varanasi (2 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 176,
       "city": "Haldwani",
       "addr": "Opposite Bhartiya Bal Vidhya Mandir Mandir Inter Collage,Kaladhungi Road ,Haldwani",
-      "group": "Haldwani (0 Centres)",
+      "group": "Haldwani (2 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 177,
       "city": "Haldwani",
       "addr": "Haldwani Diagnostic Centre Sahukara Line, Opp. Ss Jeena Base Hospital, Haldwani, Nainital-263139, Uttarakhandhaldwani - 263139",
-      "group": "Haldwani (0 Centres)",
+      "group": "Haldwani (2 Centres)",
       "region": "NR-III"
     },
     {
       "sl": 178,
       "city": "Haridwar",
       "addr": "Abc Gf & 1st Floor , Plot No - 9, Opposite Classic Residency & Mohan Puri Restaurant, Nearshankar Ashram Chowk, Main Road, Haridwar, Uttarakhand- 249401",
-      "group": "Haridwar (0 Centres)",
+      "group": "Haridwar (1 Centre)",
       "region": "NR-III"
     },
     {
       "sl": 179,
       "city": "Kolkata",
       "addr": "11 a, Puranchand Nehar Avenue, Taltala, Kolkata-700013,W.B.",
-      "group": "Kolkata (0 Centres)",
+      "group": "Kolkata (7 Centres)",
       "region": "ER-II"
     },
     {
       "sl": 180,
       "city": "Kolkata",
       "addr": "P-258, Darga Road (Adj. Park Circus Maidan) Near No. 4bridge, Kolkata-700 017, W.B.",
-      "group": "Kolkata (0 Centres)",
+      "group": "Kolkata (7 Centres)",
       "region": "ER-II"
     },
     {
       "sl": 181,
       "city": "Kolkata",
       "addr": "Cb-31/1 Street 199 Action Action 1-C New Town Kolkata 700156",
-      "group": "Kolkata (0 Centres)",
+      "group": "Kolkata (7 Centres)",
       "region": "ER-II"
     },
     {
       "sl": 182,
       "city": "Kolkata",
       "addr": "1st Floor, Siddhi Appartments, 71 Vip Road, Adjacent Tohotel Rupassi Bangla, Teghoria, Kolkata \u2013 700059",
-      "group": "Kolkata (0 Centres)",
+      "group": "Kolkata (7 Centres)",
       "region": "ER-II"
     },
     {
       "sl": 183,
       "city": "Kolkata",
       "addr": "P-845, Block-a, Lake Town, Kolkata - 700089, Wb.",
-      "group": "Kolkata (0 Centres)",
+      "group": "Kolkata (7 Centres)",
       "region": "ER-II"
     },
     {
       "sl": 184,
       "city": "Kolkata",
       "addr": "Medicave Diagnostic Pvt. Ltd, 48-B , B.T Road, Sinthi,,Kolkata- 700050",
-      "group": "Kolkata (0 Centres)",
+      "group": "Kolkata (7 Centres)",
       "region": "ER-II"
     },
     {
       "sl": 185,
       "city": "Kolkata",
       "addr": "12 No. Railgate, Noapara, Barasat, 24 Pgs.(N), Kolkata",
-      "group": "Kolkata (0 Centres)",
+      "group": "Kolkata (7 Centres)",
       "region": "ER-II"
     }
   ],
@@ -5775,6 +5775,13 @@ const COMPENDIUM_DATA = {
       "title": "EPS-2026-Gazette",
       "description": "EPS-2026-Gazette Notification dt 29-06-2026.",
       "file": "EPS-2026-GAZETTE-29-06-26.pdf",
+      "category": "Employees Pension Scheme"
+    },
+    {
+      "id": "other-04",
+      "title": "EPS95-HigherPension",
+      "description": "EPS-HigherPension-Calculation-Discrepancies.",
+      "file": "EPS95_Higher_Pension_With_Annexures.pdf",
       "category": "Employees Pension Scheme"
     }
   ]
