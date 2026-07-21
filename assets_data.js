@@ -1204,7 +1204,7 @@ const COMPENDIUM_DATA = {
       "city": "Faridabad",
       "addr": "Neelam Bata Road, Faridabad",
       "group": "Faridabad (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 82,
@@ -1213,7 +1213,7 @@ const COMPENDIUM_DATA = {
       "city": "Ghaziabad",
       "addr": "Vaishali, Ghaziabad",
       "group": "Ghaziabad (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 83,
@@ -1222,7 +1222,7 @@ const COMPENDIUM_DATA = {
       "city": "Ghaziabad",
       "addr": "Kaushambi, Ghaziabad",
       "group": "Ghaziabad (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 84,
@@ -1231,7 +1231,7 @@ const COMPENDIUM_DATA = {
       "city": "Government Hospital",
       "addr": "Government Hospital",
       "group": "Government Hospital (1 Hospital)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 85,
@@ -1240,7 +1240,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "Sec 51, Gurgaon",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 86,
@@ -1249,7 +1249,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "Sector-44, Near Huda City Centre, Gurgaon",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 87,
@@ -1258,7 +1258,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "B Block, Sushant Lok 1, Near Huda City Centre,\u00a0Gurgaon",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 88,
@@ -1267,7 +1267,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "Sector-38, Rajiv Chowk, Gurgaon",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 89,
@@ -1276,7 +1276,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "Phase- I, Paras Hospitals, C-1, Sushant Lok Rd, Sector 43, Gurgaon",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 90,
@@ -1285,7 +1285,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "110 Bestech Chambers Radisson Suites, Block B, Sector 27, Gurgaon",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 91,
@@ -1294,7 +1294,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "Plot No, 2227, Near Wazirabad Crossing, Sector 57, Gurgaon",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 92,
@@ -1303,7 +1303,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "Msj House, Plot No. a-2, Vikas Marg, Beside Ss Plaza, Mayfield Garden, Sector 47, Gurgaon",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 93,
@@ -1312,7 +1312,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "Plot - 3201, Block - V, Dlf Phase - Iii, Nathupur, Sector 24, Gurgaon",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 94,
@@ -1321,7 +1321,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "Sector 51, Gurgaon",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 95,
@@ -1330,7 +1330,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "Sector 90, Gurugram",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 96,
@@ -1339,7 +1339,7 @@ const COMPENDIUM_DATA = {
       "city": "Gurgaon",
       "addr": "Plot No. 2, Sector- 5, Imt Manesar, Gurugram, Haryana,122052",
       "group": "Gurgaon (12 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 97,
@@ -1348,7 +1348,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Hospital Plot, Road No 201, Sec 3, Dwarka, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 98,
@@ -1357,7 +1357,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Sarita Vihar, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 99,
@@ -1366,7 +1366,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Dwarka Sec 10, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 100,
@@ -1375,7 +1375,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Pusa Rd, Radha Soami Satsang, Rajendra Place,",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 101,
@@ -1384,7 +1384,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Tughlakabad Institutional Area, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 102,
@@ -1393,7 +1393,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Vasundhara Enclave, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 103,
@@ -1402,7 +1402,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Okhla, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 104,
@@ -1411,7 +1411,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Shalimar Bagh, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 105,
@@ -1420,7 +1420,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Main Road, Sector-6, Dwarka, Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 106,
@@ -1429,7 +1429,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Okhla Road, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 107,
@@ -1438,7 +1438,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Patparganj, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 108,
@@ -1447,7 +1447,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "1, 2, Press Enclave Marg, Saket Institutional Area, Saket,\u00a0delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 109,
@@ -1456,7 +1456,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "1, 2, Press Enclave Marg, Saket Institutional Area, Saket,\u00a0delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 110,
@@ -1465,7 +1465,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Press Enclave Marg, Saket District Centre, Saket, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 111,
@@ -1474,7 +1474,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Lajpat Nagar- Iii, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 112,
@@ -1483,7 +1483,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Press Enclave Marg, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 113,
@@ -1492,7 +1492,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Vasant Kunj, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 114,
@@ -1501,7 +1501,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Kailash Colony, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 115,
@@ -1510,7 +1510,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Rajinder Nagar, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 116,
@@ -1519,7 +1519,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Qutab Institutional Area, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 117,
@@ -1528,7 +1528,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Sector 18, Sector 18a Dwarka, Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 118,
@@ -1537,7 +1537,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Plot No 9, Sector 9, Dwarka, New Delhi-110077",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 119,
@@ -1546,7 +1546,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Vikas Marg Extn, Industrial Area Ii, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 120,
@@ -1555,7 +1555,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Max Super-Specialty Hospital, Plot No. 1, Sector 10 Dwarka, Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 121,
@@ -1564,7 +1564,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Mahendra Kumar Jain Marg, Niti Bagh, New Delhi-110049",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 122,
@@ -1573,7 +1573,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Rohini, New Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 123,
@@ -1582,7 +1582,7 @@ const COMPENDIUM_DATA = {
       "city": "Noida",
       "addr": "E-2, Sector - 26, Noida",
       "group": "Noida (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 124,
@@ -1591,7 +1591,7 @@ const COMPENDIUM_DATA = {
       "city": "Noida",
       "addr": "Sector 62, Gautam Buddh, Noida",
       "group": "Noida (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 125,
@@ -1600,7 +1600,7 @@ const COMPENDIUM_DATA = {
       "city": "Noida",
       "addr": "H-33, Sector-27, Noida",
       "group": "Noida (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 126,
@@ -1609,7 +1609,7 @@ const COMPENDIUM_DATA = {
       "city": "Noida",
       "addr": "Sector 71, Noida",
       "group": "Noida (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 127,
@@ -1618,7 +1618,7 @@ const COMPENDIUM_DATA = {
       "city": "Bahadurgarh",
       "addr": "Delhi Road, Bahadurgarh",
       "group": "Bahadurgarh (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 128,
@@ -1627,7 +1627,7 @@ const COMPENDIUM_DATA = {
       "city": "Dehradun",
       "addr": "Malsi, Mussoorie Diversion Road, Dehradun",
       "group": "Dehradun (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 129,
@@ -1636,7 +1636,7 @@ const COMPENDIUM_DATA = {
       "city": "Dehradun",
       "addr": "Ballupur-Canal Road, Dehradun",
       "group": "Dehradun (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 130,
@@ -1645,7 +1645,7 @@ const COMPENDIUM_DATA = {
       "city": "Faridabad",
       "addr": "Sector 21a, Faridabad",
       "group": "Faridabad (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 131,
@@ -1654,7 +1654,7 @@ const COMPENDIUM_DATA = {
       "city": "Faridabad",
       "addr": "Sector 16 a, Faridabad",
       "group": "Faridabad (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 132,
@@ -1663,7 +1663,7 @@ const COMPENDIUM_DATA = {
       "city": "Faridabad",
       "addr": "Sector 8, Faridabad",
       "group": "Faridabad (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 133,
@@ -1672,7 +1672,7 @@ const COMPENDIUM_DATA = {
       "city": "Faridabad",
       "addr": "Sector-16, Faridabad",
       "group": "Faridabad (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 134,
@@ -1681,7 +1681,7 @@ const COMPENDIUM_DATA = {
       "city": "Faridabad",
       "addr": "Sector 86, Faridabad",
       "group": "Faridabad (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 135,
@@ -1690,7 +1690,7 @@ const COMPENDIUM_DATA = {
       "city": "Faridabad",
       "addr": "Sector 88, Faridabad",
       "group": "Faridabad (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 136,
@@ -1699,7 +1699,7 @@ const COMPENDIUM_DATA = {
       "city": "Faridabad",
       "addr": "Rps City, Sector-88, Faridabad",
       "group": "Faridabad (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 137,
@@ -1708,7 +1708,7 @@ const COMPENDIUM_DATA = {
       "city": "Ghaziabad",
       "addr": "Kaushambi, Ghaziabad",
       "group": "Ghaziabad (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 138,
@@ -1717,7 +1717,7 @@ const COMPENDIUM_DATA = {
       "city": "Greater Noida",
       "addr": "Greater Noida",
       "group": "Greater Noida (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 139,
@@ -1726,7 +1726,7 @@ const COMPENDIUM_DATA = {
       "city": "Greater Noida",
       "addr": "Ho-01, Sector-1, Greater Noida West",
       "group": "Greater Noida  (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 140,
@@ -1735,7 +1735,7 @@ const COMPENDIUM_DATA = {
       "city": "Kurukshetra",
       "addr": "Kurukshetra",
       "group": "Kurukshetra (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 141,
@@ -1744,7 +1744,7 @@ const COMPENDIUM_DATA = {
       "city": "Meerut",
       "addr": "Opp. Sport Stadium, Mawana Road, Meerut",
       "group": "Meerut (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 142,
@@ -1753,7 +1753,7 @@ const COMPENDIUM_DATA = {
       "city": "Meerut",
       "addr": "C2, Shradha Puri Phase-Ii, Near Bsnl Office, Kankar Khera, Meerut",
       "group": "Meerut (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 143,
@@ -1762,7 +1762,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Sheikh Sarai, Delhi",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 144,
@@ -1771,7 +1771,7 @@ const COMPENDIUM_DATA = {
       "city": "New Delhi",
       "addr": "Sector-C, Vasant Kunj, New Delhi-110070",
       "group": "New Delhi (28 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 145,
@@ -1780,7 +1780,7 @@ const COMPENDIUM_DATA = {
       "city": "Noida",
       "addr": "Sector 26, Noida",
       "group": "Noida (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 146,
@@ -1789,7 +1789,7 @@ const COMPENDIUM_DATA = {
       "city": "Noida",
       "addr": "Nh-01, Sector-110, Noida",
       "group": "Noida (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 147,
@@ -1798,7 +1798,7 @@ const COMPENDIUM_DATA = {
       "city": "Noida",
       "addr": "Sector-50, Noida",
       "group": "Noida (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 148,
@@ -1807,7 +1807,7 @@ const COMPENDIUM_DATA = {
       "city": "Saharanpur",
       "addr": "7th Km Mile Stone, Chunhaiti, Delhi Road, Saharanpur",
       "group": "Saharanpur (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-I"
     },
     {
       "sl": 149,
@@ -1816,7 +1816,7 @@ const COMPENDIUM_DATA = {
       "city": "Amritsar",
       "addr": "Majitha-Verka Bypass Road, Amritsar",
       "group": "Amritsar (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 150,
@@ -1825,7 +1825,7 @@ const COMPENDIUM_DATA = {
       "city": "Amritsar",
       "addr": "Majitha-Verka Bypass Road, Amritsar",
       "group": "Amritsar (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 151,
@@ -1834,7 +1834,7 @@ const COMPENDIUM_DATA = {
       "city": "Fatehabad",
       "addr": "Sco 176-181p, Sector 3, Huda, Fatehabad",
       "group": "Fatehabad (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 152,
@@ -1843,7 +1843,7 @@ const COMPENDIUM_DATA = {
       "city": "Jalandhar",
       "addr": "Grand Trunk Road, Maqsudan, Near Petrol Pump, Jalandhar",
       "group": "Jalandhar (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 153,
@@ -1852,7 +1852,7 @@ const COMPENDIUM_DATA = {
       "city": "Jalandhar",
       "addr": "91, Mahavir Marg, Banda Bahadur Nagar, Jalandhar",
       "group": "Jalandhar (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 154,
@@ -1861,7 +1861,7 @@ const COMPENDIUM_DATA = {
       "city": "Jalandhar",
       "addr": "Nh-44, Jalandhar - Pathankot Road, Near Reru Chowk, Jalandhar",
       "group": "Jalandhar (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 155,
@@ -1870,7 +1870,7 @@ const COMPENDIUM_DATA = {
       "city": "Jalandhar",
       "addr": "Civil Lines, Jalandhar",
       "group": "Jalandhar (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 156,
@@ -1879,7 +1879,7 @@ const COMPENDIUM_DATA = {
       "city": "Jalandhar",
       "addr": "606 R, Mall Rd, Abadpura, Model Town, Jalandhar",
       "group": "Jalandhar (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 157,
@@ -1888,7 +1888,7 @@ const COMPENDIUM_DATA = {
       "city": "Jalandhar",
       "addr": "Opp Sports College, Kapurthala Road, Jallandhar City-144001",
       "group": "Jalandhar (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 158,
@@ -1897,7 +1897,7 @@ const COMPENDIUM_DATA = {
       "city": "Jammu",
       "addr": "147, Lane Number 16, Talab Tillo Road, Jammu",
       "group": "Jammu (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 159,
@@ -1906,7 +1906,7 @@ const COMPENDIUM_DATA = {
       "city": "Jammu",
       "addr": "Near Tawi Railway Station, Jammu",
       "group": "Jammu (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 160,
@@ -1915,7 +1915,7 @@ const COMPENDIUM_DATA = {
       "city": "Jammu",
       "addr": "Plot : Nh, Sector-2, Channi Himmat, Jammu",
       "group": "Jammu (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 161,
@@ -1924,7 +1924,7 @@ const COMPENDIUM_DATA = {
       "city": "Jammu",
       "addr": "39 B/C, Gandhi Nagar, Jammu",
       "group": "Jammu (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 162,
@@ -1933,7 +1933,7 @@ const COMPENDIUM_DATA = {
       "city": "Jammu",
       "addr": "Bye Pass Road, Sidhra, Jammu",
       "group": "Jammu (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 163,
@@ -1942,7 +1942,7 @@ const COMPENDIUM_DATA = {
       "city": "Jammu",
       "addr": "Narwal Bypass Road, Channi Himmat, Jammu",
       "group": "Jammu (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 164,
@@ -1951,7 +1951,7 @@ const COMPENDIUM_DATA = {
       "city": "Jammu",
       "addr": "Ward No. 55, Channi by Pass, Jammu",
       "group": "Jammu (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 165,
@@ -1960,7 +1960,7 @@ const COMPENDIUM_DATA = {
       "city": "Jammu",
       "addr": "Nh-1, Narwal Bypass Road, Channi Himmat, Jammu-180015, J&K",
       "group": "Jammu (8 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 166,
@@ -1969,7 +1969,7 @@ const COMPENDIUM_DATA = {
       "city": "Kaithal",
       "addr": "Near Old Bus Stand, Kaithal, Haryana-136027",
       "group": "Kaithal (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 167,
@@ -1978,7 +1978,7 @@ const COMPENDIUM_DATA = {
       "city": "Kaithal",
       "addr": "By Pass Road, Huda Sec-20, Kaithal, Haryana-136027",
       "group": "Kaithal (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 168,
@@ -1987,7 +1987,7 @@ const COMPENDIUM_DATA = {
       "city": "Katra",
       "addr": "Kakryal (Village & Post) Katra Tehsil Reasi District",
       "group": "Katra (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 169,
@@ -1996,7 +1996,7 @@ const COMPENDIUM_DATA = {
       "city": "Ludhiana",
       "addr": "Civil Lines, Tagore Nagar, Ludhiana",
       "group": "Ludhiana (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 170,
@@ -2005,7 +2005,7 @@ const COMPENDIUM_DATA = {
       "city": "Ludhiana",
       "addr": "Sherpur Chowk, Gt Road, Ludhiana-141003",
       "group": "Ludhiana (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 171,
@@ -2014,7 +2014,7 @@ const COMPENDIUM_DATA = {
       "city": "Ludhiana",
       "addr": "Civil Lines, Tagore Nagar, Ludhiana",
       "group": "Ludhiana (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 172,
@@ -2023,7 +2023,7 @@ const COMPENDIUM_DATA = {
       "city": "Ludhiana",
       "addr": "Civil Lines, Tagore Nagar, Ludhiana",
       "group": "Ludhiana (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 173,
@@ -2032,7 +2032,7 @@ const COMPENDIUM_DATA = {
       "city": "Mohali",
       "addr": "Near Civil Hospital, Phase Vi, Mohali",
       "group": "Mohali (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 174,
@@ -2041,7 +2041,7 @@ const COMPENDIUM_DATA = {
       "city": "Mohali",
       "addr": "Multanpur Medicity, Mohali, Punjab - 140901",
       "group": "Mohali (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 175,
@@ -2050,7 +2050,7 @@ const COMPENDIUM_DATA = {
       "city": "Mohali",
       "addr": "Sector 71, Sas Nagar, Mohali, Punjab-160071",
       "group": "Mohali (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 176,
@@ -2059,7 +2059,7 @@ const COMPENDIUM_DATA = {
       "city": "Panchkula",
       "addr": "Sector 21, Budanpur, Panchkula",
       "group": "Panchkula (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 177,
@@ -2068,7 +2068,7 @@ const COMPENDIUM_DATA = {
       "city": "Panchkula",
       "addr": "Plot H-2, Hsiidc Technology Park, Sector 22, Panchkula",
       "group": "Panchkula (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 178,
@@ -2077,7 +2077,7 @@ const COMPENDIUM_DATA = {
       "city": "Pathankot",
       "addr": "Village Kotli Muglan, Post Office Jhakolari, Pathankot-145025 (Punjab)",
       "group": "Pathankot (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 179,
@@ -2086,7 +2086,7 @@ const COMPENDIUM_DATA = {
       "city": "Patiala",
       "addr": "Bhupindra Road Near 22 Number Phatak, Patiala",
       "group": "Patiala (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 180,
@@ -2095,7 +2095,7 @@ const COMPENDIUM_DATA = {
       "city": "Reasi",
       "addr": "Kakryal, Katra, Reasi-182320",
       "group": "Reasi (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 181,
@@ -2104,7 +2104,7 @@ const COMPENDIUM_DATA = {
       "city": "Sas Nagar",
       "addr": "Sector 62, Phase 8, Sas Nagar (Mohali)",
       "group": "Sas Nagar (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 182,
@@ -2113,7 +2113,7 @@ const COMPENDIUM_DATA = {
       "city": "Srinagar",
       "addr": "Durganag Dalgate, Equinox Real Estate Private Ltd, Srinagar",
       "group": "Srinagar (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-II"
     },
     {
       "sl": 183,
@@ -2122,7 +2122,7 @@ const COMPENDIUM_DATA = {
       "city": "Agra",
       "addr": "Upadhyay Hospital, Near Shaheed Nagar Crossing, Agra",
       "group": "Agra (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 184,
@@ -2131,7 +2131,7 @@ const COMPENDIUM_DATA = {
       "city": "Agra",
       "addr": "Pushpanjali Hospital & Research Centre, Pushpanjali Palace, Delhi Gate, Agra",
       "group": "Agra (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 185,
@@ -2140,7 +2140,7 @@ const COMPENDIUM_DATA = {
       "city": "Agra",
       "addr": "Near St.Johns Crossing,Bagh Muzaffar Khan Road,Agra,up",
       "group": "Agra (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 186,
@@ -2149,7 +2149,7 @@ const COMPENDIUM_DATA = {
       "city": "Bareilly",
       "addr": "C-17, D. D. Puram, Bareilly",
       "group": "Bareilly (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 187,
@@ -2158,7 +2158,7 @@ const COMPENDIUM_DATA = {
       "city": "Gorakhpur",
       "addr": "Mother Teresa Road, Padari Bazar, Gorakhpur-273014",
       "group": "Gorakhpur (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 188,
@@ -2167,7 +2167,7 @@ const COMPENDIUM_DATA = {
       "city": "Haldwani",
       "addr": "Anandi Tower, Nanital Road, Nh-87, Haldwani, Uttarkhand",
       "group": "Haldwani (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 189,
@@ -2176,7 +2176,7 @@ const COMPENDIUM_DATA = {
       "city": "Jewar",
       "addr": "Tappal Road, Jewar (Gautam Budh Nagar)",
       "group": "Jewar (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 190,
@@ -2185,7 +2185,7 @@ const COMPENDIUM_DATA = {
       "city": "Kanpur",
       "addr": "120/500 (24) Lajpat Nagar, Kanpur",
       "group": "Kanpur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 191,
@@ -2194,7 +2194,7 @@ const COMPENDIUM_DATA = {
       "city": "Kanpur",
       "addr": "A2, Sarvodaya Nagar, Kanpur",
       "group": "Kanpur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 192,
@@ -2203,7 +2203,7 @@ const COMPENDIUM_DATA = {
       "city": "Lucknow",
       "addr": "B Block, Church Road, Indira Nagar, Lucknow",
       "group": "Lucknow (9 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 193,
@@ -2212,7 +2212,7 @@ const COMPENDIUM_DATA = {
       "city": "Lucknow",
       "addr": "Nh-Ii, Vipul Khand-Iv, Gomtinagar, Lucknow",
       "group": "Lucknow (9 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 194,
@@ -2221,7 +2221,7 @@ const COMPENDIUM_DATA = {
       "city": "Lucknow",
       "addr": "Kbc-31, Sector B Lda Colony, Kanpur Road, Lucknow",
       "group": "Lucknow (9 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 195,
@@ -2230,7 +2230,7 @@ const COMPENDIUM_DATA = {
       "city": "Lucknow",
       "addr": "Near Chinhat Flyover, Vijayant Khand, Gomtinagar, Lucknow",
       "group": "Lucknow (9 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 196,
@@ -2239,7 +2239,7 @@ const COMPENDIUM_DATA = {
       "city": "Lucknow",
       "addr": "Plot Ssh, Sector a, Shushant Golf City, Lucknow",
       "group": "Lucknow (9 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 197,
@@ -2248,7 +2248,7 @@ const COMPENDIUM_DATA = {
       "city": "Lucknow",
       "addr": "Lucknow",
       "group": "Lucknow (9 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 198,
@@ -2257,7 +2257,7 @@ const COMPENDIUM_DATA = {
       "city": "Lucknow",
       "addr": "1, Viraj Khand, Gomtinagar, Lucknow",
       "group": "Lucknow (9 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 199,
@@ -2266,7 +2266,7 @@ const COMPENDIUM_DATA = {
       "city": "Lucknow",
       "addr": "Vikas Khand 2, Gomtinagar, Lucknow - 226010",
       "group": "Lucknow (9 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 200,
@@ -2275,7 +2275,7 @@ const COMPENDIUM_DATA = {
       "city": "Lucknow",
       "addr": "Sector 4, Vasant Khand Yojna, Opp. Amar Shaheed Path, Lucknow",
       "group": "Lucknow (9 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 201,
@@ -2284,7 +2284,7 @@ const COMPENDIUM_DATA = {
       "city": "Prayagraj",
       "addr": "13-a, Kamla Nehru Road, Prayagraj",
       "group": "Prayagraj (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 202,
@@ -2293,7 +2293,7 @@ const COMPENDIUM_DATA = {
       "city": "Prayagraj",
       "addr": "9/5, Amarnath Jha Marg, George Town, Prayagraj, U.P.",
       "group": "Prayagraj (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 203,
@@ -2302,7 +2302,7 @@ const COMPENDIUM_DATA = {
       "city": "Varanasi",
       "addr": "Heritage Hospitals Ltd. Lanka, Varanasi",
       "group": "Varanasi (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 204,
@@ -2311,7 +2311,7 @@ const COMPENDIUM_DATA = {
       "city": "Varanasi",
       "addr": "92-93, Taigor Town, Orderly Bazar, Varanasi",
       "group": "Varanasi (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 205,
@@ -2320,7 +2320,7 @@ const COMPENDIUM_DATA = {
       "city": "Varanasi",
       "addr": "Dlw Hydle Road Varanasi",
       "group": "Varanasi (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 206,
@@ -2329,7 +2329,7 @@ const COMPENDIUM_DATA = {
       "city": "Varanasi",
       "addr": "Rameshwar Road, Harahua, Varanasi-221105, up",
       "group": "Varanasi (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 207,
@@ -2338,7 +2338,7 @@ const COMPENDIUM_DATA = {
       "city": "Varanasi",
       "addr": "Nh-2, Gt Road Bypass, Bhadwar, Mohansarai, Varanasi-221311, up",
       "group": "Varanasi (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 208,
@@ -2347,7 +2347,7 @@ const COMPENDIUM_DATA = {
       "city": "Varanasi",
       "addr": "D-63/11-a-B-R, Dayal Enclave, Mahmoorganj, Varanasi-221010, up",
       "group": "Varanasi (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 209,
@@ -2356,7 +2356,7 @@ const COMPENDIUM_DATA = {
       "city": "Varanasi",
       "addr": "B-38/46, Raman Niwas, Mahmoorganj, Varanasi-221010, up",
       "group": "Varanasi (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "NR-III"
     },
     {
       "sl": 210,
@@ -2365,7 +2365,7 @@ const COMPENDIUM_DATA = {
       "city": "Ajmer",
       "addr": "Pushkar Rd, Near Regional College, Haribhau Upadhyay Nagar, Ajmer",
       "group": "Ajmer (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 211,
@@ -2374,7 +2374,7 @@ const COMPENDIUM_DATA = {
       "city": "Ajmer",
       "addr": "Sector-C, Panchsheel Nagar, Ajmer",
       "group": "Ajmer (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 212,
@@ -2383,7 +2383,7 @@ const COMPENDIUM_DATA = {
       "city": "Bikaner",
       "addr": "Nh 15, Jaisalmer Road, Bikaner",
       "group": "Bikaner (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 213,
@@ -2392,7 +2392,7 @@ const COMPENDIUM_DATA = {
       "city": "Chittorgarh",
       "addr": "Birla Hospital Road, Senthi, Chittorgarh",
       "group": "Chittorgarh (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 214,
@@ -2401,7 +2401,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "Jawahar Lal Nehru Marg, Sector 5, Malviya Nagar, Jaipur",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 215,
@@ -2410,7 +2410,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "Kumbha Marg, Rana Sanga Marg, Sector 28, Sanganer, Pratap Nagar, Jaipur",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 216,
@@ -2419,7 +2419,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "Bhawaninear Triveni Flyover, Gopalpura Bypass Rd, Shanthi Nagar, Jaipur",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 217,
@@ -2428,7 +2428,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "3a, Jagatpura Road, Near Jawahar Circle, Chainpura, Malviya Nagar, Jaipur",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 218,
@@ -2437,7 +2437,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "Sikar Rd, Sectoe-2, Vidyadhar Nagar, Jaipur",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 219,
@@ -2446,7 +2446,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "Near Bhawani Singh Road, Rambagh, Jaipur",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 220,
@@ -2455,7 +2455,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "Kiran Path, Mansarovar Sector 3, Mansarovar, Jaipur",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 221,
@@ -2464,7 +2464,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "Sector-3, Near Gandhi Path Underpass, 200 Ft Bypass, Chitrakoot, Vaishali Nagar, Jaipur-302021",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 222,
@@ -2473,7 +2473,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "21, Bharat Mata Lane, Jamnalal Bajaj Marg, C-Scheme, Jaipur",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 223,
@@ -2482,7 +2482,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "Sector-5, Shipra Path, Mansarovar, Jaipur",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 224,
@@ -2491,7 +2491,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "Riico Industrial Area, Sitapura, Tonk Road, Jaipur-302022",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 225,
@@ -2500,7 +2500,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "Sp 4 & 6, Malviya Nagar, Jaipur-302017",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 226,
@@ -2509,7 +2509,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaipur",
       "addr": "Jawahar Lal Nehru Marg, Jaipur - 302017",
       "group": "Jaipur (13 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 227,
@@ -2518,7 +2518,7 @@ const COMPENDIUM_DATA = {
       "city": "Jaisalmer",
       "addr": "Plot No. 116-117, Cvs Colony, Ramgarh Road, Jaisalmer",
       "group": "Jaisalmer (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 228,
@@ -2527,7 +2527,7 @@ const COMPENDIUM_DATA = {
       "city": "Jodhpur",
       "addr": "961/3, Residency Road, Opposite Caf\u00e9 Coffee Day, Sardarpura, Jodhpur",
       "group": "Jodhpur (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 229,
@@ -2536,7 +2536,7 @@ const COMPENDIUM_DATA = {
       "city": "Kota",
       "addr": "10-a, Talwandi, Nh-12, New Rajeev Gandhi Nagar, Sector - a, Talwandi, Kota",
       "group": "Kota (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 230,
@@ -2545,7 +2545,7 @@ const COMPENDIUM_DATA = {
       "city": "Kota",
       "addr": "11-a, Jhalawar Road, New Rajeev Gandhi Nagar, Vip Colony, Talwandi, Kota",
       "group": "Kota (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 231,
@@ -2554,7 +2554,7 @@ const COMPENDIUM_DATA = {
       "city": "Sikar",
       "addr": "Opp. S.K.School, Silver Jubliee Road, Sikar, Rajasthan",
       "group": "Sikar (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 232,
@@ -2563,7 +2563,7 @@ const COMPENDIUM_DATA = {
       "city": "Udaipur",
       "addr": "Meera Girls, 20-Bhatt Ji Ki Bari, 101, College Road, Kothi Bagh, Udaipur",
       "group": "Udaipur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 233,
@@ -2572,7 +2572,7 @@ const COMPENDIUM_DATA = {
       "city": "Udaipur",
       "addr": "Geetanjali Medicity, Hiran Magri Extn., Eklingpura Chouraha, Udaipur",
       "group": "Udaipur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NWR"
     },
     {
       "sl": 234,
@@ -2581,7 +2581,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhagalpur",
       "addr": "Bansitikar Maa Kamakhya City, Near Airport, Bhagalpur,Bihar,813210",
       "group": "Bhagalpur (1 Hospital)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 235,
@@ -2590,7 +2590,7 @@ const COMPENDIUM_DATA = {
       "city": "Jamshedpur",
       "addr": "Near Pardhi Chowk,Tamolia,Nh-33, Jamshedpur",
       "group": "Jamshedpur (1 Hospital)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 236,
@@ -2599,7 +2599,7 @@ const COMPENDIUM_DATA = {
       "city": "Patna",
       "addr": "Raja Bazar, Patna",
       "group": "Patna (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 237,
@@ -2608,7 +2608,7 @@ const COMPENDIUM_DATA = {
       "city": "Patna",
       "addr": "Kankarbagh, Patna",
       "group": "Patna (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 238,
@@ -2617,7 +2617,7 @@ const COMPENDIUM_DATA = {
       "city": "Patna",
       "addr": "Boring Road, Patna",
       "group": "Patna (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 239,
@@ -2626,7 +2626,7 @@ const COMPENDIUM_DATA = {
       "city": "Patna",
       "addr": "Kanakarbagh, Patna",
       "group": "Patna (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 240,
@@ -2635,7 +2635,7 @@ const COMPENDIUM_DATA = {
       "city": "Patna",
       "addr": "Kankarbagh, Patrakar Nagar, Patna",
       "group": "Patna (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 241,
@@ -2644,7 +2644,7 @@ const COMPENDIUM_DATA = {
       "city": "Patna",
       "addr": "Deepayan Near Ic Honda, Rukanpura ,Bailey Road, Patna",
       "group": "Patna (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 242,
@@ -2653,7 +2653,7 @@ const COMPENDIUM_DATA = {
       "city": "Patna",
       "addr": "New Bypass Nh 30), Khemani Chak Ramkrishna Nagar Patna Bihar 800027",
       "group": "Patna (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 243,
@@ -2662,7 +2662,7 @@ const COMPENDIUM_DATA = {
       "city": "Ranchi",
       "addr": "Old Hazaribagh Road(Near Firayalal Chowk), Ranchi",
       "group": "Ranchi (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 244,
@@ -2671,7 +2671,7 @@ const COMPENDIUM_DATA = {
       "city": "Ranchi",
       "addr": "Bariyatu Road, Near Booty More Ranchi-834009",
       "group": "Ranchi (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 245,
@@ -2680,7 +2680,7 @@ const COMPENDIUM_DATA = {
       "city": "Ranchi",
       "addr": "P.O: Irba, P.S: Ormanjhi, Nh33, Ranchi, Jharkhand 835217",
       "group": "Ranchi (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 246,
@@ -2689,7 +2689,7 @@ const COMPENDIUM_DATA = {
       "city": "Ranchi",
       "addr": "Near Prabhat Tara School, Khataal, Dhurwa, Ranchi, Jharkhand 834004",
       "group": "Ranchi (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-I"
     },
     {
       "sl": 247,
@@ -2698,7 +2698,7 @@ const COMPENDIUM_DATA = {
       "city": "Bargarh",
       "addr": "Canal Chowk, Bargarh, Odisha-768028",
       "group": "Bargarh (1 Hospital)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 248,
@@ -2707,7 +2707,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhubaneswar",
       "addr": "Plot No. 251, Sainik School Road, Unit-15, Bhubaneswar",
       "group": "Bhubaneswar (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 249,
@@ -2716,7 +2716,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhubaneswar",
       "addr": "Chandrasekharpur, Bhubaenswar",
       "group": "Bhubaneswar (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 250,
@@ -2725,7 +2725,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhubaneswar",
       "addr": "Plot No. 324 (P), Prachi Enclave, Chandrasekharpur, Bhubaenswar",
       "group": "Bhubaneswar (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 251,
@@ -2734,7 +2734,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhubaneswar",
       "addr": "Patia, Bhubaenswar",
       "group": "Bhubaneswar (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 252,
@@ -2743,7 +2743,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhubaneswar",
       "addr": "Plot No. C-3, Niladri Vihar, Chandrasekharpur, Bhubaneswar",
       "group": "Bhubaneswar (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 253,
@@ -2752,7 +2752,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhubaneswar",
       "addr": "Plot No. C/6, K-8, Kalinga Nagar, Bhubaneswar",
       "group": "Bhubaneswar (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 254,
@@ -2761,7 +2761,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhubaneswar",
       "addr": "Plot No: 1, Besides Satya Sai Enclave, Khandagiri, Bhubaneswar-751030",
       "group": "Bhubaneswar (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 255,
@@ -2770,7 +2770,7 @@ const COMPENDIUM_DATA = {
       "city": "Durgapur",
       "addr": "219p, Immon Kalyan, Saptarshi Sarani, Sector Iic, Bidhannagar, Durgapur",
       "group": "Durgapur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 256,
@@ -2779,7 +2779,7 @@ const COMPENDIUM_DATA = {
       "city": "Durgapur",
       "addr": "C/49, Commercial Area, City Center, Durgapur",
       "group": "Durgapur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 257,
@@ -2788,7 +2788,7 @@ const COMPENDIUM_DATA = {
       "city": "Howrah",
       "addr": "21/3,Aurobindo Road, Po- Salkia, Ps- Malipanchghora, Howrah",
       "group": "Howrah (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 258,
@@ -2797,7 +2797,7 @@ const COMPENDIUM_DATA = {
       "city": "Howrah",
       "addr": "Andul Road, Hawrah Wb- 711109",
       "group": "Howrah (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 259,
@@ -2806,7 +2806,7 @@ const COMPENDIUM_DATA = {
       "city": "Howrah",
       "addr": "120/1, Andul Road, Near Nabanna, Hawrah, Wb 711103",
       "group": "Howrah (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 260,
@@ -2815,7 +2815,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "360, Pancha Sayar Rd, Sahid Smirity Colony, Pancha Sayar, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 261,
@@ -2824,7 +2824,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "58, Canal Circular Road, Kadapara, Phool Bagan, Kankurgachi, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 262,
@@ -2833,7 +2833,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "7, 2, Diamond Harbour Rd, New Alipore, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 263,
@@ -2842,7 +2842,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "16 17, Jc Block Lane, Broadway Rd, Sector Iii, Bidhannagar, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 264,
@@ -2851,7 +2851,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "230 Barakhola Lane, Behind Metro Cash N Carry, Purba Jadavpur, Mukundapur, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 265,
@@ -2860,7 +2860,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "Block-a, Scheme-L11 P-4&5, Gariahat Rd, Dhakuria, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 266,
@@ -2869,7 +2869,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "Ib-193, Broadway Rd, Sector Iii, Bidhannagar, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 267,
@@ -2878,7 +2878,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "1, 1, National Library Ave, Alipore, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 268,
@@ -2887,7 +2887,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "127, Eastern Metropolitan Bypass, Nitai Nagar, Mukundapur, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 269,
@@ -2896,7 +2896,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "Desun More, 720, Eastern Metropolitan Bypass, Golpark, Sector I, Kasba, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 270,
@@ -2905,7 +2905,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "8/3, Alipore Rd, Alipore, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 271,
@@ -2914,7 +2914,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "Near, 403/1, Alcove Gloria, Above Big Bazaar, Dakhin Dari Road, Vip Rd, Sreebhumi, Lake Town, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 272,
@@ -2923,7 +2923,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "8/5, Alipore Rd, Alipore, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 273,
@@ -2932,7 +2932,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "Hb-36/a/1, Sec-Iii, Salt Lake City, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 274,
@@ -2941,7 +2941,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "201, Kumrakhali, Em Bypass, Ward No \u2013 027, Ps Sonarpur, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 275,
@@ -2950,7 +2950,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "P-132/1, Mudiali Road, Po-Garden Reach, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 276,
@@ -2959,7 +2959,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "185, Acharya Jagadish Chandra Bose Rd, Elgin, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 277,
@@ -2968,7 +2968,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "E M Bypass, Anandapur, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 278,
@@ -2977,7 +2977,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "14, Major Arterial Road (Ew), New Town, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 279,
@@ -2986,7 +2986,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "Premises No 25-3333, Plot No Dj/16 New Town, Kolkata",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 280,
@@ -2995,7 +2995,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "124, Mukundpur, Em Bypass Kolakata 700099",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 281,
@@ -3004,7 +3004,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "78, Jessore Road, Barasat, Kolkata 700127",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 282,
@@ -3013,7 +3013,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "147/1,Mukundpur, E M Bypass, Kolkata 700099",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 283,
@@ -3022,7 +3022,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolkata",
       "addr": "576, Anandpur, E M Bypass, Anandapur, Kolkata-700107",
       "group": "Kolkata (24 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 284,
@@ -3031,7 +3031,7 @@ const COMPENDIUM_DATA = {
       "city": "Malda",
       "addr": "Malda Medical College Road, Malda , 732101",
       "group": "Malda (1 Hospital)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 285,
@@ -3040,7 +3040,7 @@ const COMPENDIUM_DATA = {
       "city": "Murshidabad",
       "addr": "25/1, Kalikapur Road, Berhampore, Murshidabad",
       "group": "Murshidabad (1 Hospital)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 286,
@@ -3049,7 +3049,7 @@ const COMPENDIUM_DATA = {
       "city": "Rourkela",
       "addr": "Plot No. 2013/2349, Dayanand Nagar, Dandiapalli, Rourkela",
       "group": "Rourkela (1 Hospital)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 287,
@@ -3058,7 +3058,7 @@ const COMPENDIUM_DATA = {
       "city": "Siliguri",
       "addr": "Beside Medical College, Siliguri",
       "group": "Siliguri (5 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 288,
@@ -3067,7 +3067,7 @@ const COMPENDIUM_DATA = {
       "city": "Siliguri",
       "addr": "Inside Uttorayon Township, National Highway 31 Behind City Center, Matigara, Siliguri",
       "group": "Siliguri (5 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 289,
@@ -3076,7 +3076,7 @@ const COMPENDIUM_DATA = {
       "city": "Siliguri",
       "addr": "Meghnad Saha Sarani, Ward 2, Pradhan Nagar, Siliguri",
       "group": "Siliguri (5 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 290,
@@ -3085,7 +3085,7 @@ const COMPENDIUM_DATA = {
       "city": "Siliguri",
       "addr": "2nd Mile Sevoke Road, Siliguri",
       "group": "Siliguri (5 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 291,
@@ -3094,7 +3094,7 @@ const COMPENDIUM_DATA = {
       "city": "Siliguri",
       "addr": "Parnami Mandir, Ward 40, Haidar Para, Siliguri",
       "group": "Siliguri (5 Hospitals)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 292,
@@ -3103,7 +3103,7 @@ const COMPENDIUM_DATA = {
       "city": "Gangtok",
       "addr": "5th Mile, Tadong Gangtok, Sikkim",
       "group": "Gangtok (1 Hospital)",
-      "region": "Other Regions"
+      "region": "ER-II"
     },
     {
       "sl": 293,
@@ -3112,7 +3112,7 @@ const COMPENDIUM_DATA = {
       "city": "Cachar",
       "addr": "Madam Mohan Lane, Meherpur, \u00a0silchar, Cachar, Assam-788015",
       "group": "Cachar (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 294,
@@ -3121,7 +3121,7 @@ const COMPENDIUM_DATA = {
       "city": "Dibrugarh",
       "addr": "Bordoloi Avenue, Dibrugarh, Assam",
       "group": "Dibrugarh (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 295,
@@ -3130,7 +3130,7 @@ const COMPENDIUM_DATA = {
       "city": "Dibrugarh",
       "addr": "Satsang Vihar, Jyotinagar, Dibrugarh-786005",
       "group": "Dibrugarh (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 296,
@@ -3139,7 +3139,7 @@ const COMPENDIUM_DATA = {
       "city": "Guwahati",
       "addr": "Lotus Tower, G.S.Road, Guwahati",
       "group": "Guwahati (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 297,
@@ -3148,7 +3148,7 @@ const COMPENDIUM_DATA = {
       "city": "Guwahati",
       "addr": "Dispur, G.S.Road, Guwahati",
       "group": "Guwahati (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 298,
@@ -3157,7 +3157,7 @@ const COMPENDIUM_DATA = {
       "city": "Guwahati",
       "addr": "Dispur, G.S.Road, Guwahati",
       "group": "Guwahati (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 299,
@@ -3166,7 +3166,7 @@ const COMPENDIUM_DATA = {
       "city": "Guwahati",
       "addr": "96, Basistha Rd, Beltola Tiniali, Saurabh Nagar, Beltola Tiniali, Guwahati",
       "group": "Guwahati (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 300,
@@ -3175,7 +3175,7 @@ const COMPENDIUM_DATA = {
       "city": "Guwahati",
       "addr": "Nh-37, Uday Nagar, Khanapara, Opp Bodoland Guest House, Guwahati",
       "group": "Guwahati (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 301,
@@ -3184,7 +3184,7 @@ const COMPENDIUM_DATA = {
       "city": "Guwahati",
       "addr": "Nh-37 Highway, Paschim, Near Ganesh Mandir, Boragaon, Guwahati",
       "group": "Guwahati (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 302,
@@ -3193,7 +3193,7 @@ const COMPENDIUM_DATA = {
       "city": "Imphal",
       "addr": "Langol Lamphelpat, Imphal",
       "group": "Imphal (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 303,
@@ -3202,7 +3202,7 @@ const COMPENDIUM_DATA = {
       "city": "Nagaon",
       "addr": "Nh-37, Khutikatia, Haibargaon, Nagaon, Assam - 782002",
       "group": "Nagaon (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 304,
@@ -3211,7 +3211,7 @@ const COMPENDIUM_DATA = {
       "city": "Naharlugun",
       "addr": "Pappunallah, Naharlugun, Arunachal Pradesh-791110, India",
       "group": "Naharlugun (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 305,
@@ -3220,7 +3220,7 @@ const COMPENDIUM_DATA = {
       "city": "North Bongaigaon",
       "addr": "Bongaigaon Chapaguri Road,\u00a0North Bongaigaon, Assam-783380",
       "group": "North Bongaigaon (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 306,
@@ -3229,7 +3229,7 @@ const COMPENDIUM_DATA = {
       "city": "Shillong",
       "addr": "Dhankheti, Shillong",
       "group": "Shillong (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 307,
@@ -3238,7 +3238,7 @@ const COMPENDIUM_DATA = {
       "city": "Silchar",
       "addr": "Meherpur, Silchar",
       "group": "Silchar (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 308,
@@ -3247,7 +3247,7 @@ const COMPENDIUM_DATA = {
       "city": "Silchar",
       "addr": "Beltala Meherpur, Silchar",
       "group": "Silchar (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 309,
@@ -3256,7 +3256,7 @@ const COMPENDIUM_DATA = {
       "city": "Tezpur",
       "addr": "Mission Chariali, Deurigaon, Tezpur, Distt: Sonitpur, Assam",
       "group": "Tezpur (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 310,
@@ -3265,7 +3265,7 @@ const COMPENDIUM_DATA = {
       "city": "Tripura West",
       "addr": "Capital Complex Extension, Po New Secretariat, Agartala, Tripura West",
       "group": "Tripura West (1 Hospital)",
-      "region": "Other Regions"
+      "region": "NER"
     },
     {
       "sl": 311,
@@ -3274,7 +3274,7 @@ const COMPENDIUM_DATA = {
       "city": "Aurangabad",
       "addr": "Near Chistiya Police Chowk, N-6 Cidco Aurangabad",
       "group": "Aurangabad (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 312,
@@ -3283,7 +3283,7 @@ const COMPENDIUM_DATA = {
       "city": "Aurangabad",
       "addr": "Shahanoorwadi, Darga Road, Aurangabad",
       "group": "Aurangabad (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 313,
@@ -3292,7 +3292,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhilai",
       "addr": "Nehru Nagar Chowk, Ge Road, Bhilai",
       "group": "Bhilai (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 314,
@@ -3301,7 +3301,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhilai",
       "addr": "Junwani Road, Near Surya Ti Mall, Smriti Nagar, Bhilai",
       "group": "Bhilai (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 315,
@@ -3310,7 +3310,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhilai",
       "addr": "Nh53, Opp, Toyota Showroom, Durg Bypassroad, Kadambari Nagar, Bhilai Durg, Chattishgarh",
       "group": "Bhilai  (1 Hospital)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 316,
@@ -3319,7 +3319,7 @@ const COMPENDIUM_DATA = {
       "city": "Bilaspur",
       "addr": "Rajkishor Nagar, Bilaspur",
       "group": "Bilaspur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 317,
@@ -3328,7 +3328,7 @@ const COMPENDIUM_DATA = {
       "city": "Bilaspur",
       "addr": "Vyapar Vihar Rd, Talapara, Bilaspur, Chhattisgarh 495001",
       "group": "Bilaspur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 318,
@@ -3337,7 +3337,7 @@ const COMPENDIUM_DATA = {
       "city": "Kalyan",
       "addr": "Bail Bazar, Kalyan",
       "group": "Kalyan (1 Hospital)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 319,
@@ -3346,7 +3346,7 @@ const COMPENDIUM_DATA = {
       "city": "Kolhapur",
       "addr": "R S No 628 , \u2018b\u2019 Ward, Near Shastri Nagar, Kolhapur",
       "group": "Kolhapur (1 Hospital)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 320,
@@ -3355,7 +3355,7 @@ const COMPENDIUM_DATA = {
       "city": "Mapusa",
       "addr": "Duler Ground Rd, Karaswada, Mapusa, Goa",
       "group": "Mapusa (1 Hospital)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 321,
@@ -3364,7 +3364,7 @@ const COMPENDIUM_DATA = {
       "city": "Mumbai",
       "addr": "S.V. Road, Vileparle, West- Mumbai",
       "group": "Mumbai (11 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 322,
@@ -3373,7 +3373,7 @@ const COMPENDIUM_DATA = {
       "city": "Mumbai",
       "addr": "Mahakali Caves Rd., Andheri East, Mumbai",
       "group": "Mumbai (11 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 323,
@@ -3382,7 +3382,7 @@ const COMPENDIUM_DATA = {
       "city": "Mumbai",
       "addr": "Veer Savarkar Marg, Mahim West, Mumbai",
       "group": "Mumbai (11 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 324,
@@ -3391,7 +3391,7 @@ const COMPENDIUM_DATA = {
       "city": "Mumbai",
       "addr": "Hiranandani Garden, Powai, Mumbai",
       "group": "Mumbai (11 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 325,
@@ -3400,7 +3400,7 @@ const COMPENDIUM_DATA = {
       "city": "Mumbai",
       "addr": "Mulund Goregaon, Link Road, Bhandup, West, Mumbai",
       "group": "Mumbai (11 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 326,
@@ -3409,7 +3409,7 @@ const COMPENDIUM_DATA = {
       "city": "Mumbai",
       "addr": "Four Bungalows, Andheri West, Mumbai",
       "group": "Mumbai (11 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 327,
@@ -3418,7 +3418,7 @@ const COMPENDIUM_DATA = {
       "city": "Mumbai",
       "addr": "Dr.Earnest Borges, Marg, Parel, Mumbai",
       "group": "Mumbai (11 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 328,
@@ -3427,7 +3427,7 @@ const COMPENDIUM_DATA = {
       "city": "Mumbai",
       "addr": "15, Pedder Rd, It Colony, Tardeo, Mumbai",
       "group": "Mumbai (11 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 329,
@@ -3436,7 +3436,7 @@ const COMPENDIUM_DATA = {
       "city": "Mumbai",
       "addr": "Girgaum, Mumbai \u2013 400004, Maharashtra",
       "group": "Mumbai (11 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 330,
@@ -3445,7 +3445,7 @@ const COMPENDIUM_DATA = {
       "city": "Nagpur",
       "addr": "19, Khamla Road Veer Sawarkar Square Opposite to Jupiter College, Nagpur",
       "group": "Nagpur (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 331,
@@ -3454,7 +3454,7 @@ const COMPENDIUM_DATA = {
       "city": "Nagpur",
       "addr": "14, 1, W Park Rd, Dhantoli, Nagpur",
       "group": "Nagpur (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 332,
@@ -3463,7 +3463,7 @@ const COMPENDIUM_DATA = {
       "city": "Nagpur",
       "addr": "44, Parwana Bhawan, Kingsway, Nagpur - 440001, Maharashtra",
       "group": "Nagpur (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 333,
@@ -3472,7 +3472,7 @@ const COMPENDIUM_DATA = {
       "city": "Nagpur",
       "addr": "Dhanashree Commercial Complex, Near Hotel Hardeo, Sitabuldi, Nagpur - 440012",
       "group": "Nagpur (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 334,
@@ -3481,7 +3481,7 @@ const COMPENDIUM_DATA = {
       "city": "Nagpur",
       "addr": "289, Prakash Bhawan, Near Coffee House Square, Dharampeth, Nagpur, Maharashtra, 440010",
       "group": "Nagpur (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 335,
@@ -3490,7 +3490,7 @@ const COMPENDIUM_DATA = {
       "city": "Nagpur",
       "addr": "Survey No. 232, House No. 1313, Mankapur Square, Koradi Road, Nagpur - 440030, Maharashtra",
       "group": "Nagpur (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 336,
@@ -3499,7 +3499,7 @@ const COMPENDIUM_DATA = {
       "city": "Nagpur",
       "addr": "(A Unit of Midas Multispeciality Hospital Pvt. Ltd.), 392, Khasra No. 10/3, Village Parsodi, Wardha Road, Nagpur Rural, Nagpur",
       "group": "Nagpur (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 337,
@@ -3508,7 +3508,7 @@ const COMPENDIUM_DATA = {
       "city": "Panaji",
       "addr": "Dr. E Borge Road, Dona Paula, Panaji, Goa",
       "group": "Panaji (1 Hospital)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 338,
@@ -3517,7 +3517,7 @@ const COMPENDIUM_DATA = {
       "city": "Pune",
       "addr": "Aditya Birla Hospital Marg, Po Chinchwad, Pune",
       "group": "Pune (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 339,
@@ -3526,7 +3526,7 @@ const COMPENDIUM_DATA = {
       "city": "Pune",
       "addr": "#22/2a, Near Nyati Empire, Kharadi Bypass Road, Kharadi, Pune",
       "group": "Pune (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 340,
@@ -3535,7 +3535,7 @@ const COMPENDIUM_DATA = {
       "city": "Pune",
       "addr": "32, Sassoon Road, Pune",
       "group": "Pune (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 341,
@@ -3544,7 +3544,7 @@ const COMPENDIUM_DATA = {
       "city": "Raigad (Panvel)",
       "addr": "Raigad (Panvel), Maharashtra",
       "group": "Raigad (Panvel) (1 Hospital)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 342,
@@ -3553,7 +3553,7 @@ const COMPENDIUM_DATA = {
       "city": "Raipur",
       "addr": "Aurobindo Enclave, Pachpedi Naka, Dhamtari Road, Raipur",
       "group": "Raipur (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 343,
@@ -3562,7 +3562,7 @@ const COMPENDIUM_DATA = {
       "city": "Raipur",
       "addr": "Dhamtari Road, Lalpur, Raipur",
       "group": "Raipur (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 344,
@@ -3571,7 +3571,7 @@ const COMPENDIUM_DATA = {
       "city": "Raipur",
       "addr": "Mgm Eye Institute, 5th Mile Vidhan Sabha Road, Raipur",
       "group": "Raipur (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 345,
@@ -3580,7 +3580,7 @@ const COMPENDIUM_DATA = {
       "city": "Solapur",
       "addr": "Sidheshwar Peth, Near Zilla Parishad, Solapur",
       "group": "Solapur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 346,
@@ -3589,7 +3589,7 @@ const COMPENDIUM_DATA = {
       "city": "Solapur",
       "addr": "Sanshodhan Kendra, Survey No. 7107/1, Tank Plot, Solapur",
       "group": "Solapur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-I"
     },
     {
       "sl": 347,
@@ -3598,7 +3598,7 @@ const COMPENDIUM_DATA = {
       "city": "Ahmedabad",
       "addr": "Plot No. 1a, Gidc, Bhat, Gandhinagar, Ahmedabad",
       "group": "Ahmedabad (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 348,
@@ -3607,7 +3607,7 @@ const COMPENDIUM_DATA = {
       "city": "Ahmedabad",
       "addr": "Scheme No. 69, Nr. Haridarshan Cross Road, Kathwada Road, Naroda, Ahmedabad",
       "group": "Ahmedabad (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 349,
@@ -3616,7 +3616,7 @@ const COMPENDIUM_DATA = {
       "city": "Ahmedabad",
       "addr": "Zydus Hospitals Road, Nr. Sola Bridge, Sarkhej - Gandhinagar Hwy, Ahmedabad",
       "group": "Ahmedabad (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 350,
@@ -3625,7 +3625,7 @@ const COMPENDIUM_DATA = {
       "city": "Ahmedabad",
       "addr": "Zydus Hospitals Road, Thaltej, Ahmedabad",
       "group": "Ahmedabad (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 351,
@@ -3634,7 +3634,7 @@ const COMPENDIUM_DATA = {
       "city": "Ahmedabad",
       "addr": "S.G.Highway, Opp. Karanavati Club, Ramdev Nagar, Ahmedabad, Gujarat",
       "group": "Ahmedabad (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 352,
@@ -3643,7 +3643,7 @@ const COMPENDIUM_DATA = {
       "city": "Ahmedabad",
       "addr": "319, Green City, Bopal-Ghuma Road, Ghuma, Ahmedabad-380058",
       "group": "Ahmedabad (6 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 353,
@@ -3652,7 +3652,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhopal",
       "addr": "C Sector, Shahpura, Bhopal",
       "group": "Bhopal (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 354,
@@ -3661,7 +3661,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhopal",
       "addr": "Mahadev Commercial Complex, Shivaji Nagar, Bhopal",
       "group": "Bhopal (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 355,
@@ -3670,7 +3670,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhopal",
       "addr": "E-8, Arera Colony, Bhopal 462016",
       "group": "Bhopal (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 356,
@@ -3679,7 +3679,7 @@ const COMPENDIUM_DATA = {
       "city": "Bhuj",
       "addr": "Near Kutch University, Mundra Road, Bhuj, Kachchh, Gujarat",
       "group": "Bhuj (1 Hospital)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 357,
@@ -3688,7 +3688,7 @@ const COMPENDIUM_DATA = {
       "city": "Boisar",
       "addr": "Midc Area, Boisar",
       "group": "Boisar (1 Hospital)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 358,
@@ -3697,7 +3697,7 @@ const COMPENDIUM_DATA = {
       "city": "Indore",
       "addr": "Plot No:8, Pu 4, Scheme No 54, Vijaynagar Square, Ab Road, Indore",
       "group": "Indore (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 359,
@@ -3706,7 +3706,7 @@ const COMPENDIUM_DATA = {
       "city": "Indore",
       "addr": "Ida Scheme No.94/95, Eastern Ring Road, Tulsi Nagar, Vijay Nagar, Indore",
       "group": "Indore (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 360,
@@ -3715,7 +3715,7 @@ const COMPENDIUM_DATA = {
       "city": "Indore",
       "addr": "Ring Road, Scheme No.94, Sec-1, Gram Chitawad, Teen Imali Square, Indore, Madhya Pradesh-452020",
       "group": "Indore (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 361,
@@ -3724,7 +3724,7 @@ const COMPENDIUM_DATA = {
       "city": "Jabalpur",
       "addr": "Russel Crossing, Napier Town, Jabalpur",
       "group": "Jabalpur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 362,
@@ -3733,7 +3733,7 @@ const COMPENDIUM_DATA = {
       "city": "Jabalpur",
       "addr": "Kuchaini Parisar, Damoh Nak, Jabalpur- Mp, 482002",
       "group": "Jabalpur (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 363,
@@ -3742,7 +3742,7 @@ const COMPENDIUM_DATA = {
       "city": "Mumbai",
       "addr": "Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Andheri West, Mumbai",
       "group": "Mumbai (11 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 364,
@@ -3751,7 +3751,7 @@ const COMPENDIUM_DATA = {
       "city": "Mumbai",
       "addr": "A-791, Bandra Reclamation, Bandra(W) Mumbai",
       "group": "Mumbai (11 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 365,
@@ -3760,7 +3760,7 @@ const COMPENDIUM_DATA = {
       "city": "Nadiad",
       "addr": "Muljibhai Patel Urological Hospital, Dr. Virendra Desai Road, Nadiad",
       "group": "Nadiad (1 Hospital)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 366,
@@ -3769,7 +3769,7 @@ const COMPENDIUM_DATA = {
       "city": "Rewa",
       "addr": "Old Bus Stand, Khanna Tower , Rewa, Madhya Pradesh, India,486001",
       "group": "Rewa (1 Hospital)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 367,
@@ -3778,7 +3778,7 @@ const COMPENDIUM_DATA = {
       "city": "Surat",
       "addr": "Dumas Rd, Beside Big Bazar, Piplod, Surat",
       "group": "Surat (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 368,
@@ -3787,7 +3787,7 @@ const COMPENDIUM_DATA = {
       "city": "Surat",
       "addr": "Plot No. M-6, T.P Scheme No.3, Gayatri Vehicle Depo Compound, Opposite Nagina Vadi Plot, Katargm Near Surnul Dairy, Surat",
       "group": "Surat (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 369,
@@ -3796,7 +3796,7 @@ const COMPENDIUM_DATA = {
       "city": "Surat",
       "addr": "Opp: K.P. Commerce College, 24 R K Desai Marg, Ram Nagar, Athwalines, Athwa Gate, Surat",
       "group": "Surat (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 370,
@@ -3805,7 +3805,7 @@ const COMPENDIUM_DATA = {
       "city": "Vadodara",
       "addr": "4, Manjalpur Road, Near Shreyas Vidhyalaya, Nalini House, Manjalpur, Vadodara",
       "group": "Vadodara (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 371,
@@ -3814,7 +3814,7 @@ const COMPENDIUM_DATA = {
       "city": "Vadodara",
       "addr": "Race Course Road, Opposite Inox Cinema, Circle West, Hari Nagar, Abhishek Colony, Vadiwadi, Vadodara",
       "group": "Vadodara (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 372,
@@ -3823,7 +3823,7 @@ const COMPENDIUM_DATA = {
       "city": "Vadodara",
       "addr": "Bhailal Amin Marg, Opp. Alembic Post Office, Vadodara",
       "group": "Vadodara (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 373,
@@ -3832,7 +3832,7 @@ const COMPENDIUM_DATA = {
       "city": "Vadodara",
       "addr": "Near Akshar Chowk, Old Padra Road, Vadodara",
       "group": "Vadodara (4 Hospitals)",
-      "region": "Other Regions"
+      "region": "WR-II"
     },
     {
       "sl": 374,
@@ -3841,7 +3841,7 @@ const COMPENDIUM_DATA = {
       "city": "Anantapur",
       "addr": "1-1348, Srinagar Colony, Anantapur",
       "group": "Anantapur (1 Hospital)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 375,
@@ -3850,7 +3850,7 @@ const COMPENDIUM_DATA = {
       "city": "Hanamkonda",
       "addr": "Nexa Service Center, Opp Hunter Rd, Rahmath Nagar, Shyampet, Hanamkonda, Telangana 506001",
       "group": "Hanamkonda (1 Hospital)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 376,
@@ -3859,7 +3859,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Mla Colony Main Road, Road No.12, Banjara Hills, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 377,
@@ -3868,7 +3868,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Banjara Hills, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 378,
@@ -3877,7 +3877,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Musheerabad, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 379,
@@ -3886,7 +3886,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Nampally, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 380,
@@ -3895,7 +3895,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Hitech City, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 381,
@@ -3904,7 +3904,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "6-3-661, Somajiguda, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 382,
@@ -3913,7 +3913,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "L B Nagar, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 383,
@@ -3922,7 +3922,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Rajbhavan Road, Somajiguda, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 384,
@@ -3931,7 +3931,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Jamal Colony, Malakpet, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 385,
@@ -3940,7 +3940,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Jubilee Hills, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 386,
@@ -3949,7 +3949,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Plot No.3, Road No.2, It & Financial District, Nanakramguda, Gachibowli, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 387,
@@ -3958,7 +3958,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 388,
@@ -3967,7 +3967,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Hans. No. 222 Part, Miyapur Alwin Cross Roads, Plot No. 11, Miyapur Main Rd, Hafeezpet, Madeenaguda",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 389,
@@ -3976,7 +3976,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Hanuman Towers, No. 9-71-214/1, 215, 217, Maruthi Nagar Santhosh Nagar Main Road Near Yadagiri Theater, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 390,
@@ -3985,7 +3985,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Chikoti Green Building, 16-11-477/7 to 26 Gaddiannaram , Dilsukhnagar, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 391,
@@ -3994,7 +3994,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Dmrl Cross Rd, Kanchan Bagh, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 392,
@@ -4003,7 +4003,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Near, Plot No. 3-5-836 to 838, Hyderguda-Basheerbagh Rd, Old Mla Quarters, King Koti, Hyderguda",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 393,
@@ -4012,7 +4012,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Gachibowli, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 394,
@@ -4021,7 +4021,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "6-3-712/80, Datla Pride, Panjagutta Officers Colony, Near Panjagutta Metro Station, Metro Pillar No.29, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 395,
@@ -4030,7 +4030,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Kothaguda, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 396,
@@ -4039,7 +4039,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Kallam Anji Reddy Campus, Lv Prasad Marg, Opp Pvr, Park View Enclave, Banjara Hills, Hyderabad",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 397,
@@ -4048,7 +4048,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Sy No 18p, Gachibowli, Block 2, Seven Hill Colony Road No 1, Hyderabad, Telangana 500032",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 398,
@@ -4057,7 +4057,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "H.No 3-6-262, Old Mla Hostel Road, Himayat Nagar, Next to Ratnadeep Super Market, Hyderabad, Telangana 500029.",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 399,
@@ -4066,7 +4066,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Mumtaz Complex, Mehdipatnam, Rethibowli Junction, Hyderabad, Telangana 500028.",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 400,
@@ -4075,7 +4075,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "8-2-120/120/103/1, Survey No.403, Road No.22, Banjara Hills, Hyderabd- 500034",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 401,
@@ -4084,7 +4084,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Plot No.22, Road-10, Banjara Hills, Hyderabad-500034",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 402,
@@ -4093,7 +4093,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Plot.No.1-2-20, Survey No.141,Hydernagar, Kukatpally, Hyderabad-500071",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 403,
@@ -4102,7 +4102,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Plot No.32 & 33, Opp: White Fields, Kondapur, Hyderabad-500084",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 404,
@@ -4111,7 +4111,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Plot .No.73/C & 73/D, Survey No.52, Saraswathinagar Colony, Mansoorabad Village, Lb Nagar, Hyderabad-500074",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 405,
@@ -4120,7 +4120,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "3-6-234, Himayatnagar,Hyderabad-500029",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 406,
@@ -4129,7 +4129,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Behind Cyber Towers, in the Lane of Ibis Hotels, Huda Techno Enclave, Hitec City, Hyderabad, Telangana 500082",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 407,
@@ -4138,7 +4138,7 @@ const COMPENDIUM_DATA = {
       "city": "Hyderabad",
       "addr": "Door No 22, Opposite Gandemma Temple, Near Bhel Circle Road, Chanda Nagar, Ramachandrapuram (Bhel Township), Hyderabad, Telangana 502032",
       "group": "Hyderabad (32 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 408,
@@ -4147,7 +4147,7 @@ const COMPENDIUM_DATA = {
       "city": "Kakinada",
       "addr": "13-1-13, Samudra Healthcare Enterprises Ltd, Suryarao Peta, Main Road, Kakinada",
       "group": "Kakinada (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 409,
@@ -4156,7 +4156,7 @@ const COMPENDIUM_DATA = {
       "city": "Kakinada",
       "addr": "Adb Rd, Near Achampet Junction, Kakinada, Andhra Pradesh 533005",
       "group": "Kakinada (2 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 410,
@@ -4165,7 +4165,7 @@ const COMPENDIUM_DATA = {
       "city": "Kurnool",
       "addr": "Knl Camp B, Kurnool",
       "group": "Kurnool (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 411,
@@ -4174,7 +4174,7 @@ const COMPENDIUM_DATA = {
       "city": "Kurnool",
       "addr": "69/213- K-9, Joharpuram Road, Joharpuram, Kurnool",
       "group": "Kurnool (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 412,
@@ -4183,7 +4183,7 @@ const COMPENDIUM_DATA = {
       "city": "Kurnool",
       "addr": "D.No: 51/1e2, 51/1e3, 51/1e4, Near Rtc Bus Stand, Kurnool, Andhra Pradesh 518003",
       "group": "Kurnool (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 413,
@@ -4192,7 +4192,7 @@ const COMPENDIUM_DATA = {
       "city": "Nellore",
       "addr": "Dargamitta, Nellore",
       "group": "Nellore (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 414,
@@ -4201,7 +4201,7 @@ const COMPENDIUM_DATA = {
       "city": "Nellore",
       "addr": "Muthukur Road, Park Avenue Aea, Nellore",
       "group": "Nellore (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 415,
@@ -4210,7 +4210,7 @@ const COMPENDIUM_DATA = {
       "city": "Nellore",
       "addr": "Nh-5, Chinthareddypalem Cross Road, Alahari Nagar, Chintareddy Palem, Nellore, Andhra Pradesh 524002",
       "group": "Nellore (3 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 416,
@@ -4219,7 +4219,7 @@ const COMPENDIUM_DATA = {
       "city": "Rajahmundry",
       "addr": "Rahjamundry",
       "group": "Rajahmundry (1 Hospital)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 417,
@@ -4228,7 +4228,7 @@ const COMPENDIUM_DATA = {
       "city": "Ranga Reddy",
       "addr": "Survey No.74, Nanakramguda Villageserilingampally(M)Ranga Reddy District",
       "group": "Ranga Reddy (1 Hospital)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 418,
@@ -4237,7 +4237,7 @@ const COMPENDIUM_DATA = {
       "city": "Secunderabad",
       "addr": "4th Floor, Mararani Sensation, 8-1-386&487, R P Road, Secunderabad",
       "group": "Secunderabad (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 419,
@@ -4246,7 +4246,7 @@ const COMPENDIUM_DATA = {
       "city": "Secunderabad",
       "addr": "Pg Road, Paradise, Secunderabad",
       "group": "Secunderabad (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 420,
@@ -4255,7 +4255,7 @@ const COMPENDIUM_DATA = {
       "city": "Secunderabad",
       "addr": "Sp Road, Secuerabad",
       "group": "Secunderabad (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 421,
@@ -4264,7 +4264,7 @@ const COMPENDIUM_DATA = {
       "city": "Secunderabad",
       "addr": "Minister Road, Secunderabad",
       "group": "Secunderabad (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 422,
@@ -4273,7 +4273,7 @@ const COMPENDIUM_DATA = {
       "city": "Secunderabad",
       "addr": "Pollicetty Towers, St. John's Road, Beside Keyes High School, Secunderabad",
       "group": "Secunderabad (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 423,
@@ -4282,7 +4282,7 @@ const COMPENDIUM_DATA = {
       "city": "Secunderabad",
       "addr": "Opp: New Karkhana Police Station,H.No.3-7-222 & 3-7-223, Sy No. 51to 54,Kharkahna Main Road, Kakaguda, Secunderabad-500009",
       "group": "Secunderabad (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 424,
@@ -4291,7 +4291,7 @@ const COMPENDIUM_DATA = {
       "city": "Secunderabad",
       "addr": "9, Sarojini Devi Rd, Regimental Bazaar, Shivaji Nagar, Hyderabad, Secunderabad, Telangana 500003",
       "group": "Secunderabad (7 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 425,
@@ -4300,7 +4300,7 @@ const COMPENDIUM_DATA = {
       "city": "Srikakulam",
       "addr": "P.N.Colony Junction, Near Datta Temple, New Bridge Road, Srikakulam - 532005, Andhra Pradesh, India",
       "group": "Srikakulam (1 Hospital)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 426,
@@ -4309,7 +4309,7 @@ const COMPENDIUM_DATA = {
       "city": "Vijayawada",
       "addr": "Ring Road, Vijayawada",
       "group": "Vijayawada (5 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 427,
@@ -4318,7 +4318,7 @@ const COMPENDIUM_DATA = {
       "city": "Vijayawada",
       "addr": "Door No.48-13-3 & 3a, Opp Sidhartha Medical College, Near Ntr Health University, Currency Nagar, 1st Lane, Vijayawada",
       "group": "Vijayawada (5 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 428,
@@ -4327,7 +4327,7 @@ const COMPENDIUM_DATA = {
       "city": "Vijayawada",
       "addr": "12-570, Kanakadurga Varadhi, Tadepalle, Vijayawada",
       "group": "Vijayawada (5 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 429,
@@ -4336,7 +4336,7 @@ const COMPENDIUM_DATA = {
       "city": "Vijayawada",
       "addr": "Kode Venkatadri Chowdary Campus, Penamaluru Road, Tadigadapa, Vijayawada",
       "group": "Vijayawada (5 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 430,
@@ -4345,7 +4345,7 @@ const COMPENDIUM_DATA = {
       "city": "Vijayawada",
       "addr": "48-10-12/2a, Service Road,Beside Aahaar Food Court,Currency Nagar, Vijayawada, Andhra Pradesh-520008",
       "group": "Vijayawada (5 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 431,
@@ -4354,7 +4354,7 @@ const COMPENDIUM_DATA = {
       "city": "Visakhapatnam",
       "addr": "Health City, Arileva, Chinagadhilli, Visakhapatnam",
       "group": "Visakhapatnam (10 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 432,
@@ -4363,7 +4363,7 @@ const COMPENDIUM_DATA = {
       "city": "Visakhapatnam",
       "addr": "11-4-4/a, Rockdale Layout, Visakhapatnam",
       "group": "Visakhapatnam (10 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 433,
@@ -4372,7 +4372,7 @@ const COMPENDIUM_DATA = {
       "city": "Visakhapatnam",
       "addr": "Visakhapatnam",
       "group": "Visakhapatnam (10 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 434,
@@ -4381,7 +4381,7 @@ const COMPENDIUM_DATA = {
       "city": "Visakhapatnam",
       "addr": "49 Naga Chambers 12-1-16 S. No. 1051, Division, No. 19, Waltair Main Rd, Near Green Park Hotel, Visakhapatnam",
       "group": "Visakhapatnam (10 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 435,
@@ -4390,7 +4390,7 @@ const COMPENDIUM_DATA = {
       "city": "Visakhapatnam",
       "addr": "Ramnagar, Visakhapatnam",
       "group": "Visakhapatnam (10 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 436,
@@ -4399,7 +4399,7 @@ const COMPENDIUM_DATA = {
       "city": "Visakhapatnam",
       "addr": "32-11-02, Sheela Nagar, Bhpv Post, Visakhapatnam",
       "group": "Visakhapatnam (10 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 437,
@@ -4408,7 +4408,7 @@ const COMPENDIUM_DATA = {
       "city": "Visakhapatnam",
       "addr": "Gmr Varalakshmi Campus, 11-113/1, Hanumanthavaka Junction, Visakhapatnam",
       "group": "Visakhapatnam (10 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 438,
@@ -4417,7 +4417,7 @@ const COMPENDIUM_DATA = {
       "city": "Visakhapatnam",
       "addr": "Plot No.15a, Survey No.21 & 27, Health City, Chinnagadilli, Visakhapatnam-530040",
       "group": "Visakhapatnam (10 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 439,
@@ -4426,7 +4426,7 @@ const COMPENDIUM_DATA = {
       "city": "Visakhapatnam",
       "addr": "D. No. 11-4-4/a, Rockdale Layout, Waltair Main Road, Ram Nagar, Visakhapatnam, Andhra Pradesh, 530002",
       "group": "Visakhapatnam (10 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 440,
@@ -4435,7 +4435,7 @@ const COMPENDIUM_DATA = {
       "city": "Visakhapatnam",
       "addr": "Door No- 1-1-83, New Venkojipalem Mvp Sector 6 Nh16, Near Hp Petrol Bunk, Visakhapatnam, Andhra Pradesh 530022",
       "group": "Visakhapatnam (10 Hospitals)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 441,
@@ -4444,7 +4444,7 @@ const COMPENDIUM_DATA = {
       "city": "Vizianagaram",
       "addr": "Prs Complex, Tirumala Hospitals Road, Near R.T.C. Complex, Vizianagaram, Andhra Pradesh 535003",
       "group": "Vizianagaram (1 Hospital)",
-      "region": "Other Regions"
+      "region": "SR-I"
     },
     {
       "sl": 442,
@@ -4453,7 +4453,7 @@ const COMPENDIUM_DATA = {
       "city": "Warangal",
       "addr": "Subedari, Hanamkonda, Warangal",
       "group": "Warangal (1 Hospital)",
-      "region": "Other Regions"
+      "region": "SR-I"
     }
   ],
   "labs": [
@@ -4622,1135 +4622,1135 @@ const COMPENDIUM_DATA = {
       "sl": 24,
       "city": "Vijayawada",
       "addr": "29-4-30, Kodanda Rami Reddy Street, Governorpet (Near Andhra Hospital), Vijayawada-2,Vijayawada-520002, Andhra Pradesh",
-      "group": "Vijayawada (1 Centre)",
-      "region": "Other Regions"
+      "group": "Vijayawada (0 Centres)",
+      "region": "SR-I"
     },
     {
       "sl": 25,
       "city": "Visakhapatnam",
       "addr": "No: 10-54-7, Lions Club Building, Waltair Road, Ram Nagar, Visakhapatnam - 530002",
-      "group": "Visakhapatnam (1 Centre)",
-      "region": "Other Regions"
+      "group": "Visakhapatnam (0 Centres)",
+      "region": "SR-I"
     },
     {
       "sl": 26,
       "city": "Dibrugarh",
       "addr": "Garahambazara.Troaddibrugarh- 786001 Assam",
-      "group": "Dibrugarh (1 Centre)",
-      "region": "Other Regions"
+      "group": "Dibrugarh (0 Centres)",
+      "region": "NER"
     },
     {
       "sl": 27,
       "city": "Sichar",
       "addr": "Dr. Lal Path Labs Ltd (Sree Ram Tower Telecom Services) Opposite Sanjoy Market.N.Savenue,Silchar-788005.",
-      "group": "Sichar (1 Centre)",
-      "region": "Other Regions"
+      "group": "Sichar (0 Centres)",
+      "region": "NER"
     },
     {
       "sl": 28,
       "city": "Darbhanga",
       "addr": "Mohalla Chakshaid Jahan Benta Laheria Sarai,Darbhanga 846003 Bihar",
-      "group": "Darbhanga (1 Centre)",
-      "region": "Other Regions"
+      "group": "Darbhanga (0 Centres)",
+      "region": "ER-I"
     },
     {
       "sl": 29,
       "city": "Muzaffarpur",
       "addr": "Chetan Sadhan ,Opposite Jila Parishad Market , Juran Chapra Main Road, Muzaffarpur",
-      "group": "Muzaffarpur (1 Centre)",
-      "region": "Other Regions"
+      "group": "Muzaffarpur (0 Centres)",
+      "region": "ER-I"
     },
     {
       "sl": 30,
       "city": "Patna",
       "addr": "R.K. Estate(Basement,2nd & 3rd Floor),Opposite Igims Main Gate,Near Pillar No.62,Rajabazar,Bailey Road,Patna",
-      "group": "Patna (2 Centres)",
-      "region": "Other Regions"
+      "group": "Patna (0 Centres)",
+      "region": "ER-I"
     },
     {
       "sl": 31,
       "city": "Patna",
       "addr": "A/214 P.C.Coloney Kankarbagh Patna Bihar 800020",
-      "group": "Patna (2 Centres)",
-      "region": "Other Regions"
+      "group": "Patna (0 Centres)",
+      "region": "ER-I"
     },
     {
       "sl": 32,
       "city": "Bhilai",
       "addr": "Plot No-4, Buniyad Complex, Nehru Nagar East, Bhilai, District- Durg, Chhattisgarh-490 020",
-      "group": "Bhilai (1 Centre)",
-      "region": "Other Regions"
+      "group": "Bhilai (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 33,
       "city": "Bilaspur",
       "addr": "Devaki Nandan Chowk, Opp-Petrol Pump/Temple, Bilaspur",
-      "group": "Bilaspur (1 Centre)",
-      "region": "Other Regions"
+      "group": "Bilaspur (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 34,
       "city": "Raipur",
       "addr": "Ground Floor, Bhatia Complex, Opp Rajkumar College, Geroad, Raipur-492 001, Chhattisgarh",
-      "group": "Raipur (2 Centres)",
-      "region": "Other Regions"
+      "group": "Raipur (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 35,
       "city": "Raipur",
       "addr": "C/O Modern Pathology Lab, Shop No 1,2,3,4, Garcha Complex, Jail Road, Kutchery Chowk,Raipur-492001, Chhattisgarh",
-      "group": "Raipur (2 Centres)",
-      "region": "Other Regions"
+      "group": "Raipur (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 36,
       "city": "Delhi",
       "addr": "8, West Avenue Road, Punjabi Bagh(W), New Delhi-110026.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 37,
       "city": "Delhi",
       "addr": "C-49, Main Vikas Marg, Preet Vihar, New Delhi-110092.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 38,
       "city": "Delhi",
       "addr": "B2/9,Anmol House,Near Syndicate Bank, Ashok Vihar Phase -2 New Delhi-110052.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 39,
       "city": "Delhi",
       "addr": "C- 655 Near Gurudwara, New Friends Colony, New Delhi",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 40,
       "city": "Delhi",
       "addr": "D-11/148, Gf, Sector-8, Rohini, Delhi,110085",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 41,
       "city": "Delhi",
       "addr": "Nelson Mandela Marg, Building No.1, L.S.C., Sector-B,Pocket-7, Vasant Kunj, New Delhi-110070",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 42,
       "city": "Delhi",
       "addr": "Block E, Sector 18, Rohini, New Delhi -110 085",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 43,
       "city": "Delhi",
       "addr": "4b/13, Near Metro Pillar No.494, Tilak Nagar, New Delhi -110018",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 44,
       "city": "Delhi",
       "addr": "A-15 Ground Floor, Near Kailash Colony Metro Station,Kailash Colony,New Delhi 110048",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 45,
       "city": "Delhi",
       "addr": "Shop No. G-3,4,5 , Sikka Plaza-Ii , Next to Caf\u00e9 Coffee Day ,Mayur Vihar Phase \u2013 I, New Delhi- 110092.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 46,
       "city": "Delhi",
       "addr": "4/1-3, Cl House Upper Ground Floor, Near Aiims Gate No. 3,Aurobindo Marg, Usuf Sarai, New Delhi-110016",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 47,
       "city": "Delhi",
       "addr": "Plot No. 60, Sec-12b,Beside Bal Bharati School, Dwarka,Newdelhi Pin Code \u2013 110075",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 48,
       "city": "Delhi",
       "addr": "Shop No. 6, Vardhman Sudershan Plaza, Sector-5, Near Icici Bank, Ashirwad Chowk, Dwarka,New Delhi -110073.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 49,
       "city": "Delhi",
       "addr": "J-5, Green Park Main, New Delhi - 110016.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 50,
       "city": "Delhi",
       "addr": "B-29, Community Centre, Opp. Punjab National Bank,Janakpuri, New Delhi - 110058.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 51,
       "city": "Delhi",
       "addr": "F-1/9, Near Happy English School, Main Bus Stand, Krishnanagar, New Delhi-110051.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 52,
       "city": "Delhi",
       "addr": "Shop No. 3, C-1/103-104, Lajpat Nagar-1, Opp. Nirula's, Defence Colony Flyover, Lajpat Nagar-1,New Delhi-110024.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 53,
       "city": "Delhi",
       "addr": "A-37,38,39, Ground Floor, Gf-2, Commercial Complex, Dr. Mukherjee Nagar, Adj. to Hdfc Bank,New Delhi-110009.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 54,
       "city": "Delhi",
       "addr": "Shop No. G3 & G4, Aggarwal Tower, Lsc-2, Ip - Extension, Patparganj, Adj. Sbi Atm, New Delhi-110092.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 55,
       "city": "Delhi",
       "addr": "124, Pocket C-9, Opp. Fire Station, Sector-8, Rohini, Newdelhi-110085.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 56,
       "city": "Delhi",
       "addr": "24/26,Ground Floor, Adj. Govt. Girls School No. 1, Shaktinagar,New Delhi-110007.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 57,
       "city": "Delhi",
       "addr": "Shop No. A1/Bq Market, Shalimar Bagh, Delhi-110088.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 58,
       "city": "Delhi",
       "addr": "15/1, Ground Floor, West Patel Nagar, New Delhi-110008.",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 59,
       "city": "Delhi",
       "addr": "K-106,Ground Floor (Opp. Bank of Baroda), Kalka Ji, Newdelhi-110019",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 60,
       "city": "Delhi",
       "addr": "Shop No. 15, Grond Floor, Jangpura Ext. Near Eros Cinema,Jangpura, New Delhi-110014",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 61,
       "city": "Delhi",
       "addr": "Shop No. 70, Ground Floor, Opp, Sagar Ratna, Hudson Line, Mall Road, Near Gtb Nagar Metrostation, Gate No. 3, Newdelhi-110009",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 62,
       "city": "Delhi",
       "addr": "J-13/44b, Rajouri Garden, Delhi,110027",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 63,
       "city": "Delhi",
       "addr": "Flat No. 41a, Block, C-4a, Janakpuri, New Delhi-110058",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 64,
       "city": "Delhi",
       "addr": "B-1/10, Paschim Vihar, New Delhi-110063",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 65,
       "city": "Delhi",
       "addr": "Building No.1,Regal Building Ground Floor,Parliamentstreet",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 66,
       "city": "Delhi",
       "addr": "Flat No- 101,102 Ground Floor, E-540 Greater Kailash-2 New Delhi 110048 Landmark- Next Building to M Blockmarket Red Light",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 67,
       "city": "Delhi",
       "addr": "Ground Floor. G.10 No-1 Kaushalya Park, South West Delhi, New Delhi 110016",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 68,
       "city": "Delhi",
       "addr": "Ground Floor-5b, Pusa Road Ias (Baba Banner Building) Near Karol Bagh Metro Station New Delhi- 110005",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 69,
       "city": "Delhi",
       "addr": "Shop No.a-1/7,Ground Floor, Loksatta Building, Near Pnb Atm, Main 100ft. Road, Kabir Nagar,Durgapuri, Delhi,110094",
       "group": "Delhi (34 Centres)",
-      "region": "Other Regions"
+      "region": "CC"
     },
     {
       "sl": 70,
       "city": "Ahmedabad",
       "addr": "A103/104/203, Aasthan Complex, Opp. Polytechnic, Panjarapole, Ahmedabad- 380 015, Gujarat.",
-      "group": "Ahmedabad (3 Centres)",
-      "region": "Other Regions"
+      "group": "Ahmedabad (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 71,
       "city": "Ahmedabad",
       "addr": "Pir Mohamadshah Mansion, Gheekanta Char Rasta, Reliefroad, Ahmedabad- 380 001, Gujarat.",
-      "group": "Ahmedabad (3 Centres)",
-      "region": "Other Regions"
+      "group": "Ahmedabad (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 72,
       "city": "Ahmedabad",
       "addr": "002/101/102, Titanium City Centre Mall, 100 Feet Ring Road, Next to Sachin Towers,Prahladnagar, Satellite,Ahmedabad- 380 015, Gujarat",
-      "group": "Ahmedabad (3 Centres)",
-      "region": "Other Regions"
+      "group": "Ahmedabad (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 73,
       "city": "Vadodara",
       "addr": "Shop No: 1,2,3&4, Capri House Ii, 15 Sudha Nagar, Jetalpurroad, Vadodara-390 007, Gujarat",
-      "group": "Vadodara (1 Centre)",
-      "region": "Other Regions"
+      "group": "Vadodara (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 74,
       "city": "Ambala",
       "addr": "1179, Gf, B-9, Amrit Nagar, Opp.Ambala Club, Near Inco Chowk, Old Delhi Roadambalacity,Ambala-134003-Haryana",
-      "group": "Ambala (1 Centre)",
-      "region": "Other Regions"
+      "group": "Ambala (0 Centres)",
+      "region": "NR-I"
     },
     {
       "sl": 75,
       "city": "Faridabad",
       "addr": "Scf-155, Ground Floor, Huda Market, Sector-9, Faridabad-121006, Haryana",
-      "group": "Faridabad (2 Centres)",
-      "region": "Other Regions"
+      "group": "Faridabad (0 Centres)",
+      "region": "NR-I"
     },
     {
       "sl": 76,
       "city": "Faridabad",
       "addr": "Sco-30, Sector-16, Faridabad-121002, Haryana.",
-      "group": "Faridabad (2 Centres)",
-      "region": "Other Regions"
+      "group": "Faridabad (0 Centres)",
+      "region": "NR-I"
     },
     {
       "sl": 77,
       "city": "Gurgaon",
       "addr": "Sf 103, First Floor, Galleria Market, Dlf Phase - Iv, Gurgaon -122001, Haryana.",
-      "group": "Gurgaon (4 Centres)",
-      "region": "Other Regions"
+      "group": "Gurgaon (0 Centres)",
+      "region": "CC"
     },
     {
       "sl": 78,
       "city": "Gurgaon",
       "addr": "Shop No. 54,55 the Sapphire Sec-49 Opp. Orchid Petals, Sohnaroad, Gurgaon-122018-Haryana",
-      "group": "Gurgaon (4 Centres)",
-      "region": "Other Regions"
+      "group": "Gurgaon (0 Centres)",
+      "region": "CC"
     },
     {
       "sl": 79,
       "city": "Gurgaon",
       "addr": "C-1/B, Clear View, Old Dlf Colony, Sector-14, Gurgaon-122001, Haryana.",
-      "group": "Gurgaon (4 Centres)",
-      "region": "Other Regions"
+      "group": "Gurgaon (0 Centres)",
+      "region": "CC"
     },
     {
       "sl": 80,
       "city": "Gurgaon",
       "addr": "Shop No. 9,10, 30,31, Dlf City Court, Sikanderpur, Gurgaon -122001, Haryana",
-      "group": "Gurgaon (4 Centres)",
-      "region": "Other Regions"
+      "group": "Gurgaon (0 Centres)",
+      "region": "CC"
     },
     {
       "sl": 81,
       "city": "Hisar",
       "addr": "Sector 13 - Near Easy Day Store, Tosham Road, Hisar -125050, Haryana",
-      "group": "Hisar (1 Centre)",
-      "region": "Other Regions"
+      "group": "Hisar (0 Centres)",
+      "region": "NR-I"
     },
     {
       "sl": 82,
       "city": "Panchkula",
       "addr": "Sco 241, Sec 20, Panchkula - 134116",
-      "group": "Panchkula (1 Centre)",
-      "region": "Other Regions"
+      "group": "Panchkula (0 Centres)",
+      "region": "NR-I"
     },
     {
       "sl": 83,
       "city": "Panipat",
       "addr": "Scf -35,Ground Floor,Sector-11,Near New Angel Mall,Huda,Panipat-132103, Harayana.",
-      "group": "Panipat (1 Centre)",
-      "region": "Other Regions"
+      "group": "Panipat (0 Centres)",
+      "region": "NR-I"
     },
     {
       "sl": 84,
       "city": "Rewari",
       "addr": "Near Ambedkar Chowk,Rewari-123401-Haryana",
-      "group": "Rewari (1 Centre)",
-      "region": "Other Regions"
+      "group": "Rewari (0 Centres)",
+      "region": "NR-I"
     },
     {
       "sl": 85,
       "city": "Rohtak",
       "addr": "1267, Chotu Ram Chownk, Opp. Nilli Kothi,Civil Road,Rohtak-124001-Haryana",
-      "group": "Rohtak (1 Centre)",
-      "region": "Other Regions"
+      "group": "Rohtak (0 Centres)",
+      "region": "NR-I"
     },
     {
       "sl": 86,
       "city": "Sirsa",
       "addr": "Circular Road, Sirsa, Haryana - 125055",
-      "group": "Sirsa (1 Centre)",
-      "region": "Other Regions"
+      "group": "Sirsa (0 Centres)",
+      "region": "NR-I"
     },
     {
       "sl": 87,
       "city": "Sonipat",
       "addr": "Scf \u2013 3, Sector \u2013 14, Main Market, Sonipat-131001-Haryana",
-      "group": "Sonipat (1 Centre)",
-      "region": "Other Regions"
+      "group": "Sonipat (0 Centres)",
+      "region": "NR-I"
     },
     {
       "sl": 88,
       "city": "Yamuna Nagar",
       "addr": "67 a/L Model Town, Opp. Pnb, Nehru Park Road, Yamunanagar.135001 Haryana",
-      "group": "Yamuna Nagar (1 Centre)",
-      "region": "Other Regions"
+      "group": "Yamuna Nagar (0 Centres)",
+      "region": "NR-I"
     },
     {
       "sl": 89,
       "city": "Kangra",
       "addr": "Ward No- 6, Village- Sadarpur, Near Rpgmc, Tanda, District-Kangra-176001 -(H.P)",
-      "group": "Kangra (1 Centre)",
-      "region": "Other Regions"
+      "group": "Kangra (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 90,
       "city": "Shimla",
       "addr": "Sarab Complex, N.H.-20, Shimla to Rampur Highway, Mainmarket, Sanjauli, Shimla -171006-H.P",
-      "group": "Shimla (2 Centres)",
-      "region": "Other Regions"
+      "group": "Shimla (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 91,
       "city": "Shimla",
       "addr": "Mansarover Cottage Centre: Mansarover Cottage Firstfloor, Near Igmc, Shimla, 171006.H.P",
-      "group": "Shimla (2 Centres)",
-      "region": "Other Regions"
+      "group": "Shimla (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 92,
       "city": "Anantnag",
       "addr": "Saba Complex, Khah Bazar, Anantnag-192101-J&K",
-      "group": "Anantnag (1 Centre)",
-      "region": "Other Regions"
+      "group": "Anantnag (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 93,
       "city": "Jammu",
       "addr": "88, B. C. Road, Rehari, Jammu- 180001, J&K.",
-      "group": "Jammu (4 Centres)",
-      "region": "Other Regions"
+      "group": "Jammu (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 94,
       "city": "Jammu",
       "addr": "Disco Road, Indra Colony, Near Dream Land School,Janipur, Jammu - 180001, J & K.",
-      "group": "Jammu (4 Centres)",
-      "region": "Other Regions"
+      "group": "Jammu (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 95,
       "city": "Jammu",
       "addr": "Groung Floor, 21c, B Block, Gandhi Nagar, Jammu,180004-J&K",
-      "group": "Jammu (4 Centres)",
-      "region": "Other Regions"
+      "group": "Jammu (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 96,
       "city": "Jammu",
       "addr": "Ground Floor, Shop No. 2 & 3, Chowdhary Complex, Trikutanagar, Jammu-180012",
-      "group": "Jammu (4 Centres)",
-      "region": "Other Regions"
+      "group": "Jammu (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 97,
       "city": "Srinagar",
       "addr": "140-a, Kak Sarai, Karan Nagar, Srinagar-190010, J&K.",
-      "group": "Srinagar (1 Centre)",
-      "region": "Other Regions"
+      "group": "Srinagar (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 98,
       "city": "Dhanbad",
       "addr": "Unit G-3, Ozone Center, Ashok Nagar, Dhansar Dhanbad,Jharkhand, Pin-828106",
-      "group": "Dhanbad (1 Centre)",
-      "region": "Other Regions"
+      "group": "Dhanbad (0 Centres)",
+      "region": "ER-I"
     },
     {
       "sl": 99,
       "city": "Jamshedpur",
       "addr": "Shop No. 2. 3 & 4, Sai Jambo Tower, Near Hanuman Mandir,Bhalubasa, Jamshedpur, Jharkhand - 831009",
-      "group": "Jamshedpur (1 Centre)",
-      "region": "Other Regions"
+      "group": "Jamshedpur (0 Centres)",
+      "region": "ER-I"
     },
     {
       "sl": 100,
       "city": "Ranchi",
       "addr": "1st Floor, Sourabh Tower Plot-615, Bariatu Road Nearkaram Toli Chowk, Ranchi JK-834008",
-      "group": "Ranchi (2 Centres)",
-      "region": "Other Regions"
+      "group": "Ranchi (0 Centres)",
+      "region": "ER-I"
     },
     {
       "sl": 101,
       "city": "Ranchi",
       "addr": "Shop No-119,Opp-Pantaloons,Jascon Plaza,Circular Road,Near - Dangratoli Chowk,Lalpur Ranchi,Jharkhand-834001",
-      "group": "Ranchi (2 Centres)",
-      "region": "Other Regions"
+      "group": "Ranchi (0 Centres)",
+      "region": "ER-I"
     },
     {
       "sl": 102,
       "city": "Bhopal",
       "addr": "Plot No.05, Mandakini Housing Society, Near Apurti Shopping Mall, Kolar Main Road, Bhopal-462042, M.P.",
-      "group": "Bhopal (4 Centres)",
-      "region": "Other Regions"
+      "group": "Bhopal (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 103,
       "city": "Bhopal",
       "addr": "77, Motia Talab, Opp. Tajul Masajid, Bhopal - 462 001, M.P.",
-      "group": "Bhopal (4 Centres)",
-      "region": "Other Regions"
+      "group": "Bhopal (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 104,
       "city": "Bhopal",
       "addr": "131/10, Golden Tower, Near Sargam Talkies, M.P. Nagar,Zone - 2, Bhopal - 462016, M.P.",
-      "group": "Bhopal (4 Centres)",
-      "region": "Other Regions"
+      "group": "Bhopal (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 105,
       "city": "Bhopal",
       "addr": "Ground Floor , No. 230, Om Shiv Grah Nirman Sahkari Samiti, Near Railway Line Crossing,Airport Road,Lalghati,Bhopal - 462032",
-      "group": "Bhopal (4 Centres)",
-      "region": "Other Regions"
+      "group": "Bhopal (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 106,
       "city": "Gwalior",
       "addr": "1, Ground Floor, Central Mall, Opp. Achleshwar Mandir,Sanatan Dharm Mandir Road, Lashkar, Gwalior - 474009, M.P.",
-      "group": "Gwalior (1 Centre)",
-      "region": "Other Regions"
+      "group": "Gwalior (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 107,
       "city": "Indore",
       "addr": "H No -1, Santoshi Height, Chandralok Colony, Khajranamain Road, Indore-452 001, M.P.",
-      "group": "Indore (1 Centre)",
-      "region": "Other Regions"
+      "group": "Indore (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 108,
       "city": "Jabalpur",
       "addr": "46, Ahuja Towers, Napier Town, Russel Chowk, Jabalpur-482001, M.P.",
-      "group": "Jabalpur (1 Centre)",
-      "region": "Other Regions"
+      "group": "Jabalpur (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 109,
       "city": "Sagar",
       "addr": "Ground Floor, in Front of Bundelkhand Medical College,Tilli , Near Goutam Traders , Sagar Madhya Pradesh- 470001",
-      "group": "Sagar (1 Centre)",
-      "region": "Other Regions"
+      "group": "Sagar (0 Centres)",
+      "region": "WR-II"
     },
     {
       "sl": 110,
       "city": "Aurangabad",
       "addr": "227, Near Kasbekar Hospital, Varad Ganesh Mandir Road, Samarth Nagar, Aurangabad-431001, Maharashtra",
-      "group": "Aurangabad (1 Centre)",
-      "region": "Other Regions"
+      "group": "Aurangabad (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 111,
       "city": "Mumbai",
       "addr": "Shop No.05,Shashtri Hall New Bldg.,Javji Dadaji Marg,Nearnana Chowk,Tardeo Road,Mumbai-400007",
-      "group": "Mumbai (4 Centres)",
-      "region": "Other Regions"
+      "group": "Mumbai (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 112,
       "city": "Mumbai",
       "addr": "Shop 8, Groud Floor, Kiran Towers Co-Operative Housing Society Limited, Rajanpada,Pannalal Ghoshmarg, Malad (W), Mumbai-400064, Maharashtra",
-      "group": "Mumbai (4 Centres)",
-      "region": "Other Regions"
+      "group": "Mumbai (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 113,
       "city": "Mumbai",
       "addr": "Shop No. 10-11, Ground Floor, Tirupati Complex Co- Operative Housing Society, Plot No-3, Sec-44, Seawood, Nerul Node, Navi Mumbai-400706, Maharashtra",
-      "group": "Mumbai (4 Centres)",
-      "region": "Other Regions"
+      "group": "Mumbai (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 114,
       "city": "Mumbai",
       "addr": "Ground Floor,Shop No.3c, Plot No.202, Gayatri Niwas, Opp. Sandu Marg Post Office, Sandumarg, Chembur, Mumbai-400 071",
-      "group": "Mumbai (4 Centres)",
-      "region": "Other Regions"
+      "group": "Mumbai (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 115,
       "city": "Nagpur",
       "addr": "Plot No. 07, Ground Floor,Wardha Road,Dhantoli, Opp- Big Bazaar,Nagpur-440012",
-      "group": "Nagpur (2 Centres)",
-      "region": "Other Regions"
+      "group": "Nagpur (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 116,
       "city": "Nagpur",
       "addr": "Dr. Lal Pathlabs Ltd. |No 16, Situated at Sneh Nagar, Survey No 29/1 & 29/2, Mouza-Somalwada, Nagpur-440015",
-      "group": "Nagpur (2 Centres)",
-      "region": "Other Regions"
+      "group": "Nagpur (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 117,
       "city": "Nasik",
       "addr": "Shop No.24,Upper Ground Floor,Woodland Tower Apt,Near Hotel Vihar,Old Gangapurnaka,Gangapur Road,Nasik-422005,Maharashtra",
-      "group": "Nasik (1 Centre)",
-      "region": "Other Regions"
+      "group": "Nasik (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 118,
       "city": "Navimumbai",
       "addr": "Shop No.9 & 10, Haware Shramik Chs. Plot No.17,Sector 20, Shilp Chowk,Kharghar-41021,Navi Mumbai,Maharashtra",
-      "group": "Navimumbai (2 Centres)",
-      "region": "Other Regions"
+      "group": "Navimumbai (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 119,
       "city": "Navimumbai",
       "addr": "Ground Floor Shop No.38,Crystal Plaza,Hiranandani Complex,Sector-7,Kharghar,Navimumbai-4110210,Maharashtra",
-      "group": "Navimumbai (2 Centres)",
-      "region": "Other Regions"
+      "group": "Navimumbai (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 120,
       "city": "Pune",
       "addr": "Ground Floor, Anand Emerald, Sakore Nagar, New-Airport Road, Near Symbiosis International University,Viman Nagar, Pune - 411014, Maharashtra",
-      "group": "Pune (3 Centres)",
-      "region": "Other Regions"
+      "group": "Pune (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 121,
       "city": "Pune",
       "addr": "Vikram Chambers, Near Prof. Ramkrishna More Sabhagruha, Near Gokhale Plaza, Chinchwadgaon, Pune-411 033",
-      "group": "Pune (3 Centres)",
-      "region": "Other Regions"
+      "group": "Pune (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 122,
       "city": "Pune",
       "addr": "Shop No. 40, Ground Floor, Sacred Heart Town Shoppingcomplex,75/2/2, Wananwadi, Pune \u2013 411040",
-      "group": "Pune (3 Centres)",
-      "region": "Other Regions"
+      "group": "Pune (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 123,
       "city": "Thane",
       "addr": "16a-16b, Sohum Plaza, Godbunder Road, Manpada, Thane(West), Mumbai- 400607, Maharashtra",
-      "group": "Thane (1 Centre)",
-      "region": "Other Regions"
+      "group": "Thane (0 Centres)",
+      "region": "WR-I"
     },
     {
       "sl": 124,
       "city": "Bhubneshwar",
       "addr": "Purabi,Plot No 2084/4837,Gautam Nagar ,Bhubnaeswar -14,Odisha",
-      "group": "Bhubneshwar (1 Centre)",
-      "region": "Other Regions"
+      "group": "Bhubneshwar (0 Centres)",
+      "region": "ER-II"
     },
     {
       "sl": 125,
       "city": "Amritsar",
       "addr": "S.S.Tower,Plot No.59,Shop No-4,Opp.E.N.T.Hospital,Majitha Road,Amritsar-143001,Punjab.",
-      "group": "Amritsar (3 Centres)",
-      "region": "Other Regions"
+      "group": "Amritsar (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 126,
       "city": "Amritsar",
       "addr": "S.C.F Ground Floor No. 31, C Block Market, Ranjit Avenue,Sector-3, Amritsar-143001, Punjab.",
-      "group": "Amritsar (3 Centres)",
-      "region": "Other Regions"
+      "group": "Amritsar (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 127,
       "city": "Amritsar",
       "addr": "S.C.F No. 2374, Kot Kanhaya Lal, Sultanwind Road,Near Ajit Nagar Chowk, Amritsar ,Punjab-143006",
-      "group": "Amritsar (3 Centres)",
-      "region": "Other Regions"
+      "group": "Amritsar (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 128,
       "city": "Bathinda",
       "addr": "3025/26, Guru Kanshi Marg, Opposite Lg Showroom, Nearfouji Chowk, Bathinda - 151001",
-      "group": "Bathinda (1 Centre)",
-      "region": "Other Regions"
+      "group": "Bathinda (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 129,
       "city": "Chandigarh",
       "addr": "Booth No 3. Sector -19 D. Chandigarh- 16001-Punjab",
-      "group": "Chandigarh (4 Centres)",
-      "region": "Other Regions"
+      "group": "Chandigarh (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 130,
       "city": "Chandigarh",
       "addr": "Booth No 336 ,Sec-44d, Chandigarh-160047-Punjab",
-      "group": "Chandigarh (4 Centres)",
-      "region": "Other Regions"
+      "group": "Chandigarh (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 131,
       "city": "Chandigarh",
       "addr": "Booth No 100,Sector-38 C, Chandigarh-160036",
-      "group": "Chandigarh (4 Centres)",
-      "region": "Other Regions"
+      "group": "Chandigarh (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 132,
       "city": "Chandigarh",
       "addr": "Booth No. 343, Sector 32 D, Chandigarh - 160032-Punjab",
-      "group": "Chandigarh (4 Centres)",
-      "region": "Other Regions"
+      "group": "Chandigarh (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 133,
       "city": "Hoshiarpur",
       "addr": "Ram Complex, Mohalla Kamalpur, Near Civil Hospital, Jalandhar Road, Hoshiarpur-146001-Punjab",
-      "group": "Hoshiarpur (1 Centre)",
-      "region": "Other Regions"
+      "group": "Hoshiarpur (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 134,
       "city": "Jalandhar",
       "addr": "1200-1201,Ajit Nagar ,Opp City Garden, Near Ajit Nagar Gurdawara, Nakodar Chowk,Jalandhar - 144001-Punjab.",
-      "group": "Jalandhar (1 Centre)",
-      "region": "Other Regions"
+      "group": "Jalandhar (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 135,
       "city": "Khanna",
       "addr": "Plot No. B007/1684, Ambica Complex, Opp. Main Bus Stand,Gt Road, Khanna - 141401 - Punjab",
-      "group": "Khanna (1 Centre)",
-      "region": "Other Regions"
+      "group": "Khanna (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 136,
       "city": "Ludhiana",
       "addr": "B-19,1121/a, Ground Floor, N.C Complex, Near Dmc, Tagore Nagar, Rajpura Road,Civil Lines,Ludhiana-141001,Punjab",
-      "group": "Ludhiana (5 Centres)",
-      "region": "Other Regions"
+      "group": "Ludhiana (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 137,
       "city": "Ludhiana",
       "addr": "4047, Lig Flats, Phase Ii, Urban State (Near Police Station)Dugri, Ludhiana - 141002",
-      "group": "Ludhiana (5 Centres)",
-      "region": "Other Regions"
+      "group": "Ludhiana (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 138,
       "city": "Ludhiana",
       "addr": "12-C, Sarabha Nagar, Ludhiana-141001, Punjab.",
-      "group": "Ludhiana (5 Centres)",
-      "region": "Other Regions"
+      "group": "Ludhiana (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 139,
       "city": "Ludhiana",
       "addr": "Dr. B.D. Sabharwal, # 907/19, Adj School for Deaf and Dumb Children, Tagore Nagar\u2013 a,Ludhiana-141001-Punjab",
-      "group": "Ludhiana (5 Centres)",
-      "region": "Other Regions"
+      "group": "Ludhiana (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 140,
       "city": "Ludhiana",
       "addr": "Ground Floor, Unit No:-B-Xi-964, Baba Than Singh Chowk, Samrala-Chandigarh Road,Ludhiana-141008-Punjab",
-      "group": "Ludhiana (5 Centres)",
-      "region": "Other Regions"
+      "group": "Ludhiana (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 141,
       "city": "Moga",
       "addr": "City Complex, Near Planet Fashion Showroom, Partaproad, Moga - 142001, Punjab",
-      "group": "Moga (1 Centre)",
-      "region": "Other Regions"
+      "group": "Moga (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 142,
       "city": "Mohali",
       "addr": "Booth No : 52, Phase 7, Mohali-160055-Punjab",
-      "group": "Mohali (1 Centre)",
-      "region": "Other Regions"
+      "group": "Mohali (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 143,
       "city": "Pathankot",
       "addr": "Ground Floor, Mk2 Complex, Near Kaalu Ka Petrolpump,Dalhousie Road, Pathankot-145001-Punjab",
-      "group": "Pathankot (1 Centre)",
-      "region": "Other Regions"
+      "group": "Pathankot (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 144,
       "city": "Patiala",
       "addr": "Leela Bhawan Chowk, Opposite Gopal Sweets, Patiala -147001",
-      "group": "Patiala (1 Centre)",
-      "region": "Other Regions"
+      "group": "Patiala (0 Centres)",
+      "region": "NR-II"
     },
     {
       "sl": 145,
       "city": "Jaipur",
       "addr": "A-34, Prabhu Marg, Centre Point Building, Opp. a.C. Market, Tilak Nagar, Raja Park, Jaipur-302004, Rajasthan",
-      "group": "Jaipur (1 Centre)",
-      "region": "Other Regions"
+      "group": "Jaipur (0 Centres)",
+      "region": "NWR"
     },
     {
       "sl": 146,
       "city": "Jodhpur",
       "addr": "E-123, Shastri Nagar, Opp Manidhari Hospital, Residencyroad, Jodhpur-342 001, Rajasthan",
-      "group": "Jodhpur (1 Centre)",
-      "region": "Other Regions"
+      "group": "Jodhpur (0 Centres)",
+      "region": "NWR"
     },
     {
       "sl": 147,
       "city": "Kota",
       "addr": "1-B-32 & 33, Talwandi, Rhb,Commerce College Road, Kota-324 005, Rajasthan.",
-      "group": "Kota (1 Centre)",
-      "region": "Other Regions"
+      "group": "Kota (0 Centres)",
+      "region": "NWR"
     },
     {
       "sl": 148,
       "city": "Udaipur",
       "addr": "Amolak Diagnostics Pvt Ltd, 24-C, Madhuban, Near Chetakcirlce, Opp Gpo, Udaipur-313001, Rajasthan",
-      "group": "Udaipur (2 Centres)",
-      "region": "Other Regions"
+      "group": "Udaipur (0 Centres)",
+      "region": "NWR"
     },
     {
       "sl": 149,
       "city": "Udaipur",
       "addr": "1-Ta-25 & 1-Ta-13, Ground Floor, Rhb Colony, Near Shashtrimisthan Bhandar, Sector -5, Hirang Magri, Udaipur-313 002, Rajasthan",
-      "group": "Udaipur (2 Centres)",
-      "region": "Other Regions"
+      "group": "Udaipur (0 Centres)",
+      "region": "NWR"
     },
     {
       "sl": 150,
       "city": "Hyderabad",
       "addr": "G29 & G30, Ground Floor, Swarna Jayanti Complex Beside Huda Maitrivanam Building, Ameerpet, Hyderabad-500038,Andhra Pradesh.",
-      "group": "Hyderabad (2 Centres)",
-      "region": "Other Regions"
+      "group": "Hyderabad (0 Centres)",
+      "region": "SR-I"
     },
     {
       "sl": 151,
       "city": "Hyderabad",
       "addr": "Plot No 22,Ayyappa Arcade,Janardhan Hills,Gachibowli,Serilingampalli,Hyderabad-32",
-      "group": "Hyderabad (2 Centres)",
-      "region": "Other Regions"
+      "group": "Hyderabad (0 Centres)",
+      "region": "SR-I"
     },
     {
       "sl": 152,
       "city": "Agartala",
       "addr": "Dr. P. B. Das Memorial Diagnostic Centre, Bidurkartachowuhani, Agartala-799001",
-      "group": "Agartala (1 Centre)",
-      "region": "Other Regions"
+      "group": "Agartala (0 Centres)",
+      "region": "NER"
     },
     {
       "sl": 153,
       "city": "Agra",
       "addr": "G1, Vinayak Mall, Surya Nagar, Civil Lines, Near Diwanichowk, Agra-282002, U.P.",
-      "group": "Agra (1 Centre)",
-      "region": "Other Regions"
+      "group": "Agra (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 154,
       "city": "Aligarh",
       "addr": "3/168, Kushwah Complex, Vidhya Nagar Colony, Opp Obcbank, Near Great Shopping Mall, Ramghat Road, Aligarh- 202001, U.P.",
-      "group": "Aligarh (1 Centre)",
-      "region": "Other Regions"
+      "group": "Aligarh (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 155,
       "city": "Allahabad",
       "addr": "29-B, P.D. Tandon Marg, Vivekanand Churaha Near I-Indiamart, Civil Lines Allahabad-211001",
-      "group": "Allahabad (1 Centre)",
-      "region": "Other Regions"
+      "group": "Allahabad (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 156,
       "city": "Azamgarh",
       "addr": "Shop No. 120 & 121, Civil Lines, Opposite Civil Court, Near Busstand",
-      "group": "Azamgarh (1 Centre)",
-      "region": "Other Regions"
+      "group": "Azamgarh (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 157,
       "city": "Bareilly",
       "addr": "Jai Hind Kothi, Maccnair Road, Prem Nagar",
-      "group": "Bareilly (1 Centre)",
-      "region": "Other Regions"
+      "group": "Bareilly (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 158,
       "city": "Bijnore",
       "addr": "Near Main Branch of Punjab Nation Bank, Civil Lines,Bijnore, U.P -246701",
-      "group": "Bijnore (1 Centre)",
-      "region": "Other Regions"
+      "group": "Bijnore (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 159,
       "city": "Deoria",
       "addr": "Rani Ghati Khoti, Near Jk Mittal Academy, Salempur Road",
-      "group": "Deoria (1 Centre)",
-      "region": "Other Regions"
+      "group": "Deoria (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 160,
       "city": "Faizabad",
       "addr": "Hall No 2 Mukut Complex Rikub Ganj Faizabad up 224001",
-      "group": "Faizabad (1 Centre)",
-      "region": "Other Regions"
+      "group": "Faizabad (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 161,
       "city": "Ghaziabad",
       "addr": "Ground Floor, Shop No: Bg-03,Aditya Shopping Complex,Plot No. C/Gh-3, Vaibhav Khand, Indirapuram,Ghaziabad.- 201014-U.P",
-      "group": "Ghaziabad (4 Centres)",
-      "region": "Other Regions"
+      "group": "Ghaziabad (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 162,
       "city": "Ghaziabad",
       "addr": "Ground Floor, Plot No.20, Sector-15c, Near Sbi,Vasundhara, Ghaziabad,201012, U.P.",
-      "group": "Ghaziabad (4 Centres)",
-      "region": "Other Regions"
+      "group": "Ghaziabad (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 163,
       "city": "Ghaziabad",
       "addr": "Shop No. C3,C4,Ground Floor,Saya Buildcon Ahinsa Khand - 2,Plot No.Gh-11,Near Cisfcamp,Indirapuram, Ghaziabad",
-      "group": "Ghaziabad (4 Centres)",
-      "region": "Other Regions"
+      "group": "Ghaziabad (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 164,
       "city": "Ghaziabad",
       "addr": "C-30, Rdc, Near Krishna Sagar, Rajnagar, Ghaziabad- 201002,U.P.",
-      "group": "Ghaziabad (4 Centres)",
-      "region": "Other Regions"
+      "group": "Ghaziabad (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 165,
       "city": "Gorakhpur Sadar",
       "addr": "10 Park Road, Beside City Mall, Civil Line, Gorakhpur,",
-      "group": "Gorakhpur Sadar (1 Centre)",
-      "region": "Other Regions"
+      "group": "Gorakhpur Sadar (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 166,
       "city": "Kanpur",
       "addr": "117/H-2/168-a,Pandunagar,Kanpur-208005,up",
-      "group": "Kanpur (1 Centre)",
-      "region": "Other Regions"
+      "group": "Kanpur (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 167,
       "city": "Lucknow",
       "addr": "8 Mandir Marg Mahanagar Ext. Lucknow226006",
-      "group": "Lucknow (1 Centre)",
-      "region": "Other Regions"
+      "group": "Lucknow (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 168,
       "city": "Meerut",
       "addr": "5/5, Begam Bridge Road Opp. Raj Vanshi Kanya Inter College,Beside Akash Ganga Jwellers.",
-      "group": "Meerut (1 Centre)",
-      "region": "Other Regions"
+      "group": "Meerut (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 169,
       "city": "Noida",
       "addr": "Shop No: G-18,G-19,G-20 & G-21, Msx Tower-Ii, B-2, Alpha- 1,Alpha Commercial Belt,Greaternoida, Gautam Budhnagar-201308-U.P",
-      "group": "Noida (4 Centres)",
-      "region": "Other Regions"
+      "group": "Noida (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 170,
       "city": "Noida",
       "addr": "B-1/1, Central Market, Sector \u2013 50, Noida-201301, U.P.",
-      "group": "Noida (4 Centres)",
-      "region": "Other Regions"
+      "group": "Noida (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 171,
       "city": "Noida",
       "addr": "N-27, Sector-18, Noida-201301, U.P.",
-      "group": "Noida (4 Centres)",
-      "region": "Other Regions"
+      "group": "Noida (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 172,
       "city": "Noida",
       "addr": "Shop No-103,Jaipuria Plaza,Sector-26 Noida-201301-U.P",
-      "group": "Noida (4 Centres)",
-      "region": "Other Regions"
+      "group": "Noida (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 173,
       "city": "Saharanpur",
       "addr": "2/880/37, Dr. Bheem Rao Ambedkar Marg, Opp. Sophiamarket, Court Road, Saharanpur- 247 001, U.P.",
-      "group": "Saharanpur (1 Centre)",
-      "region": "Other Regions"
+      "group": "Saharanpur (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 174,
       "city": "Varanasi",
       "addr": "Nidan Kendra Godowlia, Varanasi, U.P. - 221010",
-      "group": "Varanasi (2 Centres)",
-      "region": "Other Regions"
+      "group": "Varanasi (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 175,
       "city": "Varanasi",
       "addr": "38,Gr.Flr.Shastri Nagar, Opp Sajan Cinema Hall, Sigravaranasi 221001 , U.P 0542-2222282, 07851810462",
-      "group": "Varanasi (2 Centres)",
-      "region": "Other Regions"
+      "group": "Varanasi (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 176,
       "city": "Haldwani",
       "addr": "Opposite Bhartiya Bal Vidhya Mandir Mandir Inter Collage,Kaladhungi Road ,Haldwani",
-      "group": "Haldwani (2 Centres)",
-      "region": "Other Regions"
+      "group": "Haldwani (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 177,
       "city": "Haldwani",
       "addr": "Haldwani Diagnostic Centre Sahukara Line, Opp. Ss Jeena Base Hospital, Haldwani, Nainital-263139, Uttarakhandhaldwani - 263139",
-      "group": "Haldwani (2 Centres)",
-      "region": "Other Regions"
+      "group": "Haldwani (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 178,
       "city": "Haridwar",
       "addr": "Abc Gf & 1st Floor , Plot No - 9, Opposite Classic Residency & Mohan Puri Restaurant, Nearshankar Ashram Chowk, Main Road, Haridwar, Uttarakhand- 249401",
-      "group": "Haridwar (1 Centre)",
-      "region": "Other Regions"
+      "group": "Haridwar (0 Centres)",
+      "region": "NR-III"
     },
     {
       "sl": 179,
       "city": "Kolkata",
       "addr": "11 a, Puranchand Nehar Avenue, Taltala, Kolkata-700013,W.B.",
-      "group": "Kolkata (7 Centres)",
-      "region": "Other Regions"
+      "group": "Kolkata (0 Centres)",
+      "region": "ER-II"
     },
     {
       "sl": 180,
       "city": "Kolkata",
       "addr": "P-258, Darga Road (Adj. Park Circus Maidan) Near No. 4bridge, Kolkata-700 017, W.B.",
-      "group": "Kolkata (7 Centres)",
-      "region": "Other Regions"
+      "group": "Kolkata (0 Centres)",
+      "region": "ER-II"
     },
     {
       "sl": 181,
       "city": "Kolkata",
       "addr": "Cb-31/1 Street 199 Action Action 1-C New Town Kolkata 700156",
-      "group": "Kolkata (7 Centres)",
-      "region": "Other Regions"
+      "group": "Kolkata (0 Centres)",
+      "region": "ER-II"
     },
     {
       "sl": 182,
       "city": "Kolkata",
       "addr": "1st Floor, Siddhi Appartments, 71 Vip Road, Adjacent Tohotel Rupassi Bangla, Teghoria, Kolkata \u2013 700059",
-      "group": "Kolkata (7 Centres)",
-      "region": "Other Regions"
+      "group": "Kolkata (0 Centres)",
+      "region": "ER-II"
     },
     {
       "sl": 183,
       "city": "Kolkata",
       "addr": "P-845, Block-a, Lake Town, Kolkata - 700089, Wb.",
-      "group": "Kolkata (7 Centres)",
-      "region": "Other Regions"
+      "group": "Kolkata (0 Centres)",
+      "region": "ER-II"
     },
     {
       "sl": 184,
       "city": "Kolkata",
       "addr": "Medicave Diagnostic Pvt. Ltd, 48-B , B.T Road, Sinthi,,Kolkata- 700050",
-      "group": "Kolkata (7 Centres)",
-      "region": "Other Regions"
+      "group": "Kolkata (0 Centres)",
+      "region": "ER-II"
     },
     {
       "sl": 185,
       "city": "Kolkata",
       "addr": "12 No. Railgate, Noapara, Barasat, 24 Pgs.(N), Kolkata",
-      "group": "Kolkata (7 Centres)",
-      "region": "Other Regions"
+      "group": "Kolkata (0 Centres)",
+      "region": "ER-II"
     }
   ],
   "aabhaarStart": 666,
